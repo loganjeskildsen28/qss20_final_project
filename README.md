@@ -32,6 +32,8 @@ All code written and polished for a Dartmouth College QSS020 final project, Summ
 
 - Function of this Document:
     - Reads all relevant dirty .csv files and converts to pandas DataFrame objects.
+    - Concatenates subcategory article and main country article daily views into one total_wikipedia_df dataframe and converts to a .csv.
+    - WORKING Cleans entries of [diaspora_2024.csv](https://github.com/loganjeskildsen28/qss20_final_project/data/diaspora_2024.csv) and [diaspora_2022.csv](https://github.com/loganjeskildsen28/qss20_final_project/data/diaspora_2022.csv) and left joins 
 
 - Key Outputs:
     - [cleaned_wikipedia_data.csv](https://github.com/loganjeskildsen28/qss20_final_project/data/cleaned_wikipedia_data.csv)
@@ -41,12 +43,15 @@ All code written and polished for a Dartmouth College QSS020 final project, Summ
 - Inputs:
     - Cleaned wikipedia data from 1_clean_merge_data.ipynb.
 
-- Function of this Document:
-    - Visualizes viewcount 
+- Function of this Document (ALL WORKING):
+    - Scrapes baseline mean daily viewcount data from the first month of the year for each article.
+    - Aggregates baselines and World Cup window data for all articles pertaining to a specific country
+    - Visualizes time series of ratio of article viewcounts to the baseline viewcount for each country
+    - Fits an exponential decay model to each country's engagement starting on the 
     - WORKING Compares half-lives of engagement based on different parameters (score differential, match type, historical rivarly)
 
 - Key Outputs:
-    - TBD
+    - CURRENT example visualization of half-life fitted
 
 4. [3_visualize_regional_and_sentiment.ipynb](https://github.com/loganjeskildsen28/qss20_final_project/code/0_pull_format_all_api_data.ipynb)
 - Inputs:

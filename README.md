@@ -51,7 +51,8 @@ All code written and polished for a Dartmouth College QSS020 final project, Summ
     - WORKING Compares half-lives of engagement based on different parameters (score differential, match type, historical rivarly)
 
 - Key Outputs:
-    - CURRENT example visualization of half-life fitted
+    - CURRENT example visualization of half-life fitted model for 2026 (Bosnia and Herzegovina) and 2022 (Belgium) World Cups. Model is a work in progress.
+    - FUTURE visualizations for all countries the US has faced since 2022.
 
 4. [3_visualize_regional_and_sentiment.ipynb](https://github.com/loganjeskildsen28/qss20_final_project/code/0_pull_format_all_api_data.ipynb)
 - Inputs:

@@ -1,209 +1,209 @@
 ,country,geo_code,date,cultural_interest_1,cultural_interest_2,match_interest_1,match_interest_2,city
-0,Australia,US-CA-803,2026-05-17,2,0,0,0,Los Angeles CA
-1,Australia,US-CA-803,2026-05-24,14,0,6,0,Los Angeles CA
-2,Australia,US-CA-803,2026-05-31,13,0,18,14,Los Angeles CA
-3,Australia,US-CA-803,2026-06-07,14,1,19,3,Los Angeles CA
-4,Australia,US-CA-803,2026-06-14,16,0,128,16,Los Angeles CA
-5,Australia,US-CA-803,2026-06-21,15,0,178,38,Los Angeles CA
-6,Australia,US-CA-803,2026-06-28,15,0,116,11,Los Angeles CA
-7,Australia,US-CA-803,2026-07-05,21,1,200,16,Los Angeles CA
-8,Australia,US-CA-803,2026-07-12,11,0,54,1,Los Angeles CA
-9,Australia,US-CA-803,2026-07-19,8,0,34,0,Los Angeles CA
-10,Australia,US-CA-803,2026-07-26,7,0,8,0,Los Angeles CA
-11,Australia,US-CA-803,2026-08-02,1,0,0,0,Los Angeles CA
-12,Australia,US-CA-803,2026-08-09,2,0,0,0,Los Angeles CA
+0,Australia,US-CA-803,2026-05-17,1,0,0,0,Los Angeles CA
+1,Australia,US-CA-803,2026-05-24,13,1,5,0,Los Angeles CA
+2,Australia,US-CA-803,2026-05-31,12,0,19,13,Los Angeles CA
+3,Australia,US-CA-803,2026-06-07,14,0,19,2,Los Angeles CA
+4,Australia,US-CA-803,2026-06-14,16,1,129,17,Los Angeles CA
+5,Australia,US-CA-803,2026-06-21,12,0,174,39,Los Angeles CA
+6,Australia,US-CA-803,2026-06-28,15,0,113,8,Los Angeles CA
+7,Australia,US-CA-803,2026-07-05,20,0,197,16,Los Angeles CA
+8,Australia,US-CA-803,2026-07-12,11,0,52,1,Los Angeles CA
+9,Australia,US-CA-803,2026-07-19,12,0,33,0,Los Angeles CA
+10,Australia,US-CA-803,2026-07-26,3,0,6,0,Los Angeles CA
+11,Australia,US-CA-803,2026-08-02,2,0,0,0,Los Angeles CA
+12,Australia,US-CA-803,2026-08-09,3,0,0,0,Los Angeles CA
 13,Australia,US-CA-803,2026-08-16,4,0,0,0,Los Angeles CA
 14,Australia,US-CA-803,2026-08-23,1,0,0,0,Los Angeles CA
-15,Australia,US-CA-807,2026-05-17,0,0,3,0,San Francisco CA
-16,Australia,US-CA-807,2026-05-24,6,0,5,0,San Francisco CA
-17,Australia,US-CA-807,2026-05-31,11,0,5,0,San Francisco CA
-18,Australia,US-CA-807,2026-06-07,10,0,23,0,San Francisco CA
-19,Australia,US-CA-807,2026-06-14,10,0,124,14,San Francisco CA
-20,Australia,US-CA-807,2026-06-21,4,0,177,40,San Francisco CA
-21,Australia,US-CA-807,2026-06-28,16,0,141,15,San Francisco CA
-22,Australia,US-CA-807,2026-07-05,21,2,197,16,San Francisco CA
-23,Australia,US-CA-807,2026-07-12,14,0,66,2,San Francisco CA
-24,Australia,US-CA-807,2026-07-19,0,0,38,0,San Francisco CA
-25,Australia,US-CA-807,2026-07-26,6,0,9,0,San Francisco CA
-26,Australia,US-CA-807,2026-08-02,0,0,0,0,San Francisco CA
+15,Australia,US-CA-807,2026-05-17,0,0,0,0,San Francisco CA
+16,Australia,US-CA-807,2026-05-24,10,0,0,0,San Francisco CA
+17,Australia,US-CA-807,2026-05-31,11,0,8,4,San Francisco CA
+18,Australia,US-CA-807,2026-06-07,12,0,23,0,San Francisco CA
+19,Australia,US-CA-807,2026-06-14,7,2,121,19,San Francisco CA
+20,Australia,US-CA-807,2026-06-21,4,0,175,38,San Francisco CA
+21,Australia,US-CA-807,2026-06-28,13,0,141,10,San Francisco CA
+22,Australia,US-CA-807,2026-07-05,24,0,196,15,San Francisco CA
+23,Australia,US-CA-807,2026-07-12,12,0,65,0,San Francisco CA
+24,Australia,US-CA-807,2026-07-19,0,0,35,0,San Francisco CA
+25,Australia,US-CA-807,2026-07-26,10,2,8,0,San Francisco CA
+26,Australia,US-CA-807,2026-08-02,2,0,2,0,San Francisco CA
 27,Australia,US-CA-807,2026-08-09,0,0,0,0,San Francisco CA
 28,Australia,US-CA-807,2026-08-16,0,0,0,0,San Francisco CA
 29,Australia,US-CA-807,2026-08-23,0,0,0,0,San Francisco CA
 30,Australia,US-FL-528,2026-05-17,0,0,0,0,Miami FL
 31,Australia,US-FL-528,2026-05-24,0,0,0,0,Miami FL
-32,Australia,US-FL-528,2026-05-31,0,0,0,0,Miami FL
-33,Australia,US-FL-528,2026-06-07,0,0,0,0,Miami FL
-34,Australia,US-FL-528,2026-06-14,0,4,100,9,Miami FL
-35,Australia,US-FL-528,2026-06-21,0,0,175,33,Miami FL
-36,Australia,US-FL-528,2026-06-28,5,0,113,0,Miami FL
-37,Australia,US-FL-528,2026-07-05,0,0,131,10,Miami FL
-38,Australia,US-FL-528,2026-07-12,0,0,17,0,Miami FL
-39,Australia,US-FL-528,2026-07-19,0,0,4,0,Miami FL
+32,Australia,US-FL-528,2026-05-31,0,0,7,0,Miami FL
+33,Australia,US-FL-528,2026-06-07,0,0,5,0,Miami FL
+34,Australia,US-FL-528,2026-06-14,5,0,98,6,Miami FL
+35,Australia,US-FL-528,2026-06-21,6,0,175,39,Miami FL
+36,Australia,US-FL-528,2026-06-28,0,0,101,0,Miami FL
+37,Australia,US-FL-528,2026-07-05,5,0,134,11,Miami FL
+38,Australia,US-FL-528,2026-07-12,0,0,36,0,Miami FL
+39,Australia,US-FL-528,2026-07-19,0,0,0,0,Miami FL
 40,Australia,US-FL-528,2026-07-26,0,0,0,0,Miami FL
 41,Australia,US-FL-528,2026-08-02,0,0,0,0,Miami FL
-42,Australia,US-FL-528,2026-08-09,0,0,0,0,Miami FL
-43,Australia,US-FL-528,2026-08-16,1,0,0,0,Miami FL
+42,Australia,US-FL-528,2026-08-09,0,6,0,0,Miami FL
+43,Australia,US-FL-528,2026-08-16,0,0,0,0,Miami FL
 44,Australia,US-FL-528,2026-08-23,0,0,0,0,Miami FL
 45,Australia,US-GA-524,2026-05-17,0,0,0,0,Atlanta GA
 46,Australia,US-GA-524,2026-05-24,0,0,0,0,Atlanta GA
-47,Australia,US-GA-524,2026-05-31,0,0,0,0,Atlanta GA
-48,Australia,US-GA-524,2026-06-07,4,0,4,0,Atlanta GA
-49,Australia,US-GA-524,2026-06-14,3,0,108,5,Atlanta GA
-50,Australia,US-GA-524,2026-06-21,4,0,173,41,Atlanta GA
-51,Australia,US-GA-524,2026-06-28,0,0,78,4,Atlanta GA
-52,Australia,US-GA-524,2026-07-05,0,0,118,13,Atlanta GA
-53,Australia,US-GA-524,2026-07-12,5,0,9,8,Atlanta GA
-54,Australia,US-GA-524,2026-07-19,0,0,0,4,Atlanta GA
+47,Australia,US-GA-524,2026-05-31,10,0,0,0,Atlanta GA
+48,Australia,US-GA-524,2026-06-07,0,0,11,0,Atlanta GA
+49,Australia,US-GA-524,2026-06-14,0,0,97,9,Atlanta GA
+50,Australia,US-GA-524,2026-06-21,0,0,179,40,Atlanta GA
+51,Australia,US-GA-524,2026-06-28,0,0,78,0,Atlanta GA
+52,Australia,US-GA-524,2026-07-05,5,0,114,10,Atlanta GA
+53,Australia,US-GA-524,2026-07-12,0,0,8,0,Atlanta GA
+54,Australia,US-GA-524,2026-07-19,0,0,8,0,Atlanta GA
 55,Australia,US-GA-524,2026-07-26,0,0,0,0,Atlanta GA
 56,Australia,US-GA-524,2026-08-02,0,0,0,0,Atlanta GA
 57,Australia,US-GA-524,2026-08-09,0,0,0,0,Atlanta GA
 58,Australia,US-GA-524,2026-08-16,0,0,0,0,Atlanta GA
 59,Australia,US-GA-524,2026-08-23,0,0,0,0,Atlanta GA
-60,Australia,US-MA-506,2026-05-17,0,0,0,0,Boston MA
-61,Australia,US-MA-506,2026-05-24,0,0,4,0,Boston MA
-62,Australia,US-MA-506,2026-05-31,0,0,0,0,Boston MA
-63,Australia,US-MA-506,2026-06-07,6,0,4,0,Boston MA
-64,Australia,US-MA-506,2026-06-14,0,0,84,8,Boston MA
-65,Australia,US-MA-506,2026-06-21,7,4,163,34,Boston MA
-66,Australia,US-MA-506,2026-06-28,3,0,69,4,Boston MA
-67,Australia,US-MA-506,2026-07-05,3,0,97,9,Boston MA
-68,Australia,US-MA-506,2026-07-12,0,0,15,0,Boston MA
-69,Australia,US-MA-506,2026-07-19,0,0,7,0,Boston MA
-70,Australia,US-MA-506,2026-07-26,0,0,0,0,Boston MA
-71,Australia,US-MA-506,2026-08-02,0,0,0,0,Boston MA
-72,Australia,US-MA-506,2026-08-09,0,0,0,0,Boston MA
-73,Australia,US-MA-506,2026-08-16,0,0,1,0,Boston MA
-74,Australia,US-MA-506,2026-08-23,0,0,0,0,Boston MA
-75,Australia,US-MO-616,2026-05-17,0,0,0,0,Kansas City MO
-76,Australia,US-MO-616,2026-05-24,0,0,0,0,Kansas City MO
-77,Australia,US-MO-616,2026-05-31,0,0,0,0,Kansas City MO
-78,Australia,US-MO-616,2026-06-07,0,0,0,0,Kansas City MO
-79,Australia,US-MO-616,2026-06-14,0,0,56,15,Kansas City MO
-80,Australia,US-MO-616,2026-06-21,0,0,157,33,Kansas City MO
-81,Australia,US-MO-616,2026-06-28,10,0,53,0,Kansas City MO
-82,Australia,US-MO-616,2026-07-05,0,0,64,12,Kansas City MO
-83,Australia,US-MO-616,2026-07-12,0,0,0,0,Kansas City MO
-84,Australia,US-MO-616,2026-07-19,0,0,0,0,Kansas City MO
-85,Australia,US-MO-616,2026-07-26,0,0,0,0,Kansas City MO
-86,Australia,US-MO-616,2026-08-02,0,0,0,13,Kansas City MO
-87,Australia,US-MO-616,2026-08-09,0,0,0,0,Kansas City MO
-88,Australia,US-MO-616,2026-08-16,0,0,0,0,Kansas City MO
-89,Australia,US-MO-616,2026-08-23,0,0,0,1,Kansas City MO
-90,Australia,US-NY-501,2026-05-17,2,0,2,0,New York NY
-91,Australia,US-NY-501,2026-05-24,11,0,7,0,New York NY
-92,Australia,US-NY-501,2026-05-31,19,0,12,0,New York NY
-93,Australia,US-NY-501,2026-06-07,15,0,18,2,New York NY
-94,Australia,US-NY-501,2026-06-14,19,1,106,12,New York NY
-95,Australia,US-NY-501,2026-06-21,18,0,185,45,New York NY
-96,Australia,US-NY-501,2026-06-28,20,0,113,13,New York NY
-97,Australia,US-NY-501,2026-07-05,21,0,156,20,New York NY
-98,Australia,US-NY-501,2026-07-12,12,0,35,1,New York NY
-99,Australia,US-NY-501,2026-07-19,9,0,26,0,New York NY
-100,Australia,US-NY-501,2026-07-26,5,0,4,0,New York NY
-101,Australia,US-NY-501,2026-08-02,2,0,0,0,New York NY
-102,Australia,US-NY-501,2026-08-09,4,1,1,0,New York NY
-103,Australia,US-NY-501,2026-08-16,1,0,0,0,New York NY
-104,Australia,US-NY-501,2026-08-23,0,0,0,0,New York NY
-105,Australia,US-PA-504,2026-05-17,0,0,0,0,Philidelphia PA
-106,Australia,US-PA-504,2026-05-24,0,0,0,0,Philidelphia PA
-107,Australia,US-PA-504,2026-05-31,0,0,3,0,Philidelphia PA
-108,Australia,US-PA-504,2026-06-07,0,0,10,0,Philidelphia PA
-109,Australia,US-PA-504,2026-06-14,7,0,87,6,Philidelphia PA
-110,Australia,US-PA-504,2026-06-21,4,0,171,44,Philidelphia PA
-111,Australia,US-PA-504,2026-06-28,0,5,65,4,Philidelphia PA
-112,Australia,US-PA-504,2026-07-05,0,0,102,11,Philidelphia PA
-113,Australia,US-PA-504,2026-07-12,3,0,17,0,Philidelphia PA
-114,Australia,US-PA-504,2026-07-19,0,0,15,0,Philidelphia PA
-115,Australia,US-PA-504,2026-07-26,0,0,0,0,Philidelphia PA
-116,Australia,US-PA-504,2026-08-02,0,0,0,0,Philidelphia PA
-117,Australia,US-PA-504,2026-08-09,0,0,0,0,Philidelphia PA
-118,Australia,US-PA-504,2026-08-16,0,0,0,0,Philidelphia PA
-119,Australia,US-PA-504,2026-08-23,0,0,0,0,Philidelphia PA
-120,Australia,US-TX-618,2026-05-17,0,0,0,0,Houston TX
-121,Australia,US-TX-618,2026-05-24,0,0,0,0,Houston TX
-122,Australia,US-TX-618,2026-05-31,0,0,4,5,Houston TX
-123,Australia,US-TX-618,2026-06-07,0,0,10,0,Houston TX
-124,Australia,US-TX-618,2026-06-14,0,0,101,12,Houston TX
-125,Australia,US-TX-618,2026-06-21,0,0,168,33,Houston TX
-126,Australia,US-TX-618,2026-06-28,0,0,82,4,Houston TX
-127,Australia,US-TX-618,2026-07-05,5,0,141,10,Houston TX
-128,Australia,US-TX-618,2026-07-12,0,0,26,0,Houston TX
-129,Australia,US-TX-618,2026-07-19,0,0,3,0,Houston TX
-130,Australia,US-TX-618,2026-07-26,0,0,0,0,Houston TX
-131,Australia,US-TX-618,2026-08-02,0,0,0,0,Houston TX
-132,Australia,US-TX-618,2026-08-09,0,0,0,0,Houston TX
-133,Australia,US-TX-618,2026-08-16,0,0,0,0,Houston TX
-134,Australia,US-TX-618,2026-08-23,0,0,0,0,Houston TX
-135,Australia,US-TX-623,2026-05-17,0,0,0,0,Dallas TX
-136,Australia,US-TX-623,2026-05-24,0,0,0,0,Dallas TX
-137,Australia,US-TX-623,2026-05-31,0,0,4,2,Dallas TX
-138,Australia,US-TX-623,2026-06-07,0,0,3,0,Dallas TX
-139,Australia,US-TX-623,2026-06-14,7,0,94,12,Dallas TX
-140,Australia,US-TX-623,2026-06-21,3,0,175,47,Dallas TX
-141,Australia,US-TX-623,2026-06-28,9,0,98,10,Dallas TX
-142,Australia,US-TX-623,2026-07-05,5,0,192,32,Dallas TX
-143,Australia,US-TX-623,2026-07-12,0,0,38,0,Dallas TX
-144,Australia,US-TX-623,2026-07-19,0,0,24,0,Dallas TX
-145,Australia,US-TX-623,2026-07-26,3,0,0,0,Dallas TX
-146,Australia,US-TX-623,2026-08-02,0,0,0,0,Dallas TX
-147,Australia,US-TX-623,2026-08-09,0,0,0,0,Dallas TX
-148,Australia,US-TX-623,2026-08-16,0,0,0,0,Dallas TX
-149,Australia,US-TX-623,2026-08-23,0,0,0,0,Dallas TX
-150,Australia,US-WA-819,2026-05-17,0,0,0,0,Seattle WA
-151,Australia,US-WA-819,2026-05-24,0,0,0,0,Seattle WA
-152,Australia,US-WA-819,2026-05-31,0,0,3,2,Seattle WA
-153,Australia,US-WA-819,2026-06-07,4,0,11,0,Seattle WA
-154,Australia,US-WA-819,2026-06-14,1,0,61,8,Seattle WA
-155,Australia,US-WA-819,2026-06-21,1,0,179,36,Seattle WA
-156,Australia,US-WA-819,2026-06-28,0,0,43,3,Seattle WA
-157,Australia,US-WA-819,2026-07-05,3,0,62,4,Seattle WA
-158,Australia,US-WA-819,2026-07-12,3,0,16,0,Seattle WA
-159,Australia,US-WA-819,2026-07-19,1,0,9,0,Seattle WA
-160,Australia,US-WA-819,2026-07-26,0,0,2,0,Seattle WA
-161,Australia,US-WA-819,2026-08-02,1,0,1,0,Seattle WA
-162,Australia,US-WA-819,2026-08-09,0,0,0,0,Seattle WA
-163,Australia,US-WA-819,2026-08-16,0,0,0,0,Seattle WA
-164,Australia,US-WA-819,2026-08-23,0,0,0,0,Seattle WA
+60,Australia,US-IL-602,2026-05-17,0,0,0,0,Chicago IL
+61,Australia,US-IL-602,2026-05-24,3,0,0,0,Chicago IL
+62,Australia,US-IL-602,2026-05-31,8,0,3,7,Chicago IL
+63,Australia,US-IL-602,2026-06-07,6,0,7,0,Chicago IL
+64,Australia,US-IL-602,2026-06-14,9,0,94,14,Chicago IL
+65,Australia,US-IL-602,2026-06-21,3,0,183,47,Chicago IL
+66,Australia,US-IL-602,2026-06-28,8,0,86,10,Chicago IL
+67,Australia,US-IL-602,2026-07-05,14,0,138,12,Chicago IL
+68,Australia,US-IL-602,2026-07-12,0,0,27,0,Chicago IL
+69,Australia,US-IL-602,2026-07-19,0,0,3,0,Chicago IL
+70,Australia,US-IL-602,2026-07-26,0,0,0,0,Chicago IL
+71,Australia,US-IL-602,2026-08-02,0,0,0,0,Chicago IL
+72,Australia,US-IL-602,2026-08-09,0,0,0,0,Chicago IL
+73,Australia,US-IL-602,2026-08-16,0,0,0,0,Chicago IL
+74,Australia,US-IL-602,2026-08-23,0,0,0,0,Chicago IL
+75,Australia,US-MA-506,2026-05-17,0,0,0,0,Boston MA
+76,Australia,US-MA-506,2026-05-24,0,0,0,0,Boston MA
+77,Australia,US-MA-506,2026-05-31,0,0,0,0,Boston MA
+78,Australia,US-MA-506,2026-06-07,0,0,7,0,Boston MA
+79,Australia,US-MA-506,2026-06-14,3,0,84,13,Boston MA
+80,Australia,US-MA-506,2026-06-21,4,0,164,31,Boston MA
+81,Australia,US-MA-506,2026-06-28,0,0,71,8,Boston MA
+82,Australia,US-MA-506,2026-07-05,3,0,98,9,Boston MA
+83,Australia,US-MA-506,2026-07-12,0,0,15,0,Boston MA
+84,Australia,US-MA-506,2026-07-19,0,0,4,0,Boston MA
+85,Australia,US-MA-506,2026-07-26,0,0,0,0,Boston MA
+86,Australia,US-MA-506,2026-08-02,0,0,0,0,Boston MA
+87,Australia,US-MA-506,2026-08-09,0,0,0,0,Boston MA
+88,Australia,US-MA-506,2026-08-16,0,0,2,0,Boston MA
+89,Australia,US-MA-506,2026-08-23,0,0,0,0,Boston MA
+90,Australia,US-MO-616,2026-05-17,0,0,0,0,Kansas City MO
+91,Australia,US-MO-616,2026-05-24,0,0,0,0,Kansas City MO
+92,Australia,US-MO-616,2026-05-31,0,0,0,0,Kansas City MO
+93,Australia,US-MO-616,2026-06-07,8,0,0,0,Kansas City MO
+94,Australia,US-MO-616,2026-06-14,0,0,59,11,Kansas City MO
+95,Australia,US-MO-616,2026-06-21,0,0,159,39,Kansas City MO
+96,Australia,US-MO-616,2026-06-28,0,0,45,0,Kansas City MO
+97,Australia,US-MO-616,2026-07-05,0,15,63,11,Kansas City MO
+98,Australia,US-MO-616,2026-07-12,0,0,0,0,Kansas City MO
+99,Australia,US-MO-616,2026-07-19,0,0,0,0,Kansas City MO
+100,Australia,US-MO-616,2026-07-26,0,0,0,0,Kansas City MO
+101,Australia,US-MO-616,2026-08-02,0,0,0,0,Kansas City MO
+102,Australia,US-MO-616,2026-08-09,0,0,0,0,Kansas City MO
+103,Australia,US-MO-616,2026-08-16,0,0,0,0,Kansas City MO
+104,Australia,US-MO-616,2026-08-23,0,0,0,0,Kansas City MO
+105,Australia,US-NY-501,2026-05-17,2,0,0,0,New York NY
+106,Australia,US-NY-501,2026-05-24,13,0,10,2,New York NY
+107,Australia,US-NY-501,2026-05-31,17,0,11,1,New York NY
+108,Australia,US-NY-501,2026-06-07,17,0,18,1,New York NY
+109,Australia,US-NY-501,2026-06-14,18,0,107,13,New York NY
+110,Australia,US-NY-501,2026-06-21,19,0,184,46,New York NY
+111,Australia,US-NY-501,2026-06-28,19,1,114,14,New York NY
+112,Australia,US-NY-501,2026-07-05,20,1,158,21,New York NY
+113,Australia,US-NY-501,2026-07-12,12,1,33,4,New York NY
+114,Australia,US-NY-501,2026-07-19,7,0,24,0,New York NY
+115,Australia,US-NY-501,2026-07-26,5,0,4,0,New York NY
+116,Australia,US-NY-501,2026-08-02,1,0,0,0,New York NY
+117,Australia,US-NY-501,2026-08-09,1,2,0,0,New York NY
+118,Australia,US-NY-501,2026-08-16,0,0,0,0,New York NY
+119,Australia,US-NY-501,2026-08-23,0,0,0,0,New York NY
+120,Australia,US-PA-504,2026-05-17,0,0,0,0,Philidelphia PA
+121,Australia,US-PA-504,2026-05-24,0,0,0,4,Philidelphia PA
+122,Australia,US-PA-504,2026-05-31,0,0,0,0,Philidelphia PA
+123,Australia,US-PA-504,2026-06-07,0,0,8,0,Philidelphia PA
+124,Australia,US-PA-504,2026-06-14,16,0,83,15,Philidelphia PA
+125,Australia,US-PA-504,2026-06-21,0,0,170,42,Philidelphia PA
+126,Australia,US-PA-504,2026-06-28,0,0,70,5,Philidelphia PA
+127,Australia,US-PA-504,2026-07-05,10,0,102,10,Philidelphia PA
+128,Australia,US-PA-504,2026-07-12,0,0,16,0,Philidelphia PA
+129,Australia,US-PA-504,2026-07-19,5,0,0,0,Philidelphia PA
+130,Australia,US-PA-504,2026-07-26,0,0,0,0,Philidelphia PA
+131,Australia,US-PA-504,2026-08-02,0,0,0,0,Philidelphia PA
+132,Australia,US-PA-504,2026-08-09,0,0,0,0,Philidelphia PA
+133,Australia,US-PA-504,2026-08-16,0,0,0,0,Philidelphia PA
+134,Australia,US-PA-504,2026-08-23,0,0,1,0,Philidelphia PA
+135,Australia,US-TX-618,2026-05-17,0,0,0,0,Houston TX
+136,Australia,US-TX-618,2026-05-24,0,0,4,0,Houston TX
+137,Australia,US-TX-618,2026-05-31,0,0,4,4,Houston TX
+138,Australia,US-TX-618,2026-06-07,4,3,3,0,Houston TX
+139,Australia,US-TX-618,2026-06-14,0,0,99,10,Houston TX
+140,Australia,US-TX-618,2026-06-21,0,0,167,38,Houston TX
+141,Australia,US-TX-618,2026-06-28,0,0,82,4,Houston TX
+142,Australia,US-TX-618,2026-07-05,7,0,144,7,Houston TX
+143,Australia,US-TX-618,2026-07-12,0,0,25,0,Houston TX
+144,Australia,US-TX-618,2026-07-19,0,0,0,0,Houston TX
+145,Australia,US-TX-618,2026-07-26,0,0,0,0,Houston TX
+146,Australia,US-TX-618,2026-08-02,0,0,0,0,Houston TX
+147,Australia,US-TX-618,2026-08-09,0,0,0,0,Houston TX
+148,Australia,US-TX-618,2026-08-16,0,0,0,0,Houston TX
+149,Australia,US-TX-618,2026-08-23,0,0,0,0,Houston TX
+150,Australia,US-TX-623,2026-05-17,0,0,0,0,Dallas TX
+151,Australia,US-TX-623,2026-05-24,0,0,0,0,Dallas TX
+152,Australia,US-TX-623,2026-05-31,0,0,4,0,Dallas TX
+153,Australia,US-TX-623,2026-06-07,3,0,3,0,Dallas TX
+154,Australia,US-TX-623,2026-06-14,2,5,95,12,Dallas TX
+155,Australia,US-TX-623,2026-06-21,8,0,178,46,Dallas TX
+156,Australia,US-TX-623,2026-06-28,7,0,95,11,Dallas TX
+157,Australia,US-TX-623,2026-07-05,7,0,191,27,Dallas TX
+158,Australia,US-TX-623,2026-07-12,0,0,35,0,Dallas TX
+159,Australia,US-TX-623,2026-07-19,0,0,27,0,Dallas TX
+160,Australia,US-TX-623,2026-07-26,0,0,3,0,Dallas TX
+161,Australia,US-TX-623,2026-08-02,0,0,3,0,Dallas TX
+162,Australia,US-TX-623,2026-08-09,0,0,0,0,Dallas TX
+163,Australia,US-TX-623,2026-08-16,0,0,0,0,Dallas TX
+164,Australia,US-TX-623,2026-08-23,0,0,0,0,Dallas TX
 165,Belgium,US-CA-803,2026-05-17,0,0,0,0,Los Angeles CA
-166,Belgium,US-CA-803,2026-05-24,0,0,1,0,Los Angeles CA
-167,Belgium,US-CA-803,2026-05-31,0,0,4,0,Los Angeles CA
-168,Belgium,US-CA-803,2026-06-07,0,0,9,1,Los Angeles CA
-169,Belgium,US-CA-803,2026-06-14,0,0,24,2,Los Angeles CA
-170,Belgium,US-CA-803,2026-06-21,1,0,100,12,Los Angeles CA
-171,Belgium,US-CA-803,2026-06-28,2,0,77,6,Los Angeles CA
-172,Belgium,US-CA-803,2026-07-05,7,1,156,20,Los Angeles CA
-173,Belgium,US-CA-803,2026-07-12,13,0,317,46,Los Angeles CA
-174,Belgium,US-CA-803,2026-07-19,0,0,17,0,Los Angeles CA
+166,Belgium,US-CA-803,2026-05-24,0,0,0,0,Los Angeles CA
+167,Belgium,US-CA-803,2026-05-31,0,0,3,0,Los Angeles CA
+168,Belgium,US-CA-803,2026-06-07,0,0,10,0,Los Angeles CA
+169,Belgium,US-CA-803,2026-06-14,0,0,25,4,Los Angeles CA
+170,Belgium,US-CA-803,2026-06-21,1,1,99,13,Los Angeles CA
+171,Belgium,US-CA-803,2026-06-28,3,0,77,4,Los Angeles CA
+172,Belgium,US-CA-803,2026-07-05,7,0,159,21,Los Angeles CA
+173,Belgium,US-CA-803,2026-07-12,12,1,319,49,Los Angeles CA
+174,Belgium,US-CA-803,2026-07-19,0,0,19,1,Los Angeles CA
 175,Belgium,US-CA-803,2026-07-26,0,0,1,0,Los Angeles CA
-176,Belgium,US-CA-803,2026-08-02,0,0,0,0,Los Angeles CA
+176,Belgium,US-CA-803,2026-08-02,0,0,1,0,Los Angeles CA
 177,Belgium,US-CA-803,2026-08-09,0,0,0,0,Los Angeles CA
 178,Belgium,US-CA-803,2026-08-16,0,0,0,0,Los Angeles CA
 179,Belgium,US-CA-803,2026-08-23,0,0,0,0,Los Angeles CA
 180,Belgium,US-CA-807,2026-05-17,0,0,0,0,San Francisco CA
-181,Belgium,US-CA-807,2026-05-24,0,0,0,2,San Francisco CA
-182,Belgium,US-CA-807,2026-05-31,2,0,0,0,San Francisco CA
-183,Belgium,US-CA-807,2026-06-07,0,0,10,0,San Francisco CA
-184,Belgium,US-CA-807,2026-06-14,0,0,19,0,San Francisco CA
-185,Belgium,US-CA-807,2026-06-21,2,0,89,7,San Francisco CA
-186,Belgium,US-CA-807,2026-06-28,2,0,82,3,San Francisco CA
-187,Belgium,US-CA-807,2026-07-05,10,0,177,24,San Francisco CA
-188,Belgium,US-CA-807,2026-07-12,15,0,327,48,San Francisco CA
-189,Belgium,US-CA-807,2026-07-19,0,0,19,0,San Francisco CA
-190,Belgium,US-CA-807,2026-07-26,0,0,2,0,San Francisco CA
+181,Belgium,US-CA-807,2026-05-24,0,0,0,0,San Francisco CA
+182,Belgium,US-CA-807,2026-05-31,0,0,0,0,San Francisco CA
+183,Belgium,US-CA-807,2026-06-07,0,0,11,0,San Francisco CA
+184,Belgium,US-CA-807,2026-06-14,0,0,20,0,San Francisco CA
+185,Belgium,US-CA-807,2026-06-21,1,0,85,8,San Francisco CA
+186,Belgium,US-CA-807,2026-06-28,2,0,79,3,San Francisco CA
+187,Belgium,US-CA-807,2026-07-05,10,2,174,25,San Francisco CA
+188,Belgium,US-CA-807,2026-07-12,14,0,328,50,San Francisco CA
+189,Belgium,US-CA-807,2026-07-19,0,0,16,0,San Francisco CA
+190,Belgium,US-CA-807,2026-07-26,0,0,0,0,San Francisco CA
 191,Belgium,US-CA-807,2026-08-02,0,0,0,0,San Francisco CA
 192,Belgium,US-CA-807,2026-08-09,0,0,0,0,San Francisco CA
 193,Belgium,US-CA-807,2026-08-16,0,0,0,0,San Francisco CA
 194,Belgium,US-CA-807,2026-08-23,0,0,0,0,San Francisco CA
-195,Belgium,US-FL-528,2026-05-17,0,0,0,0,Miami FL
+195,Belgium,US-FL-528,2026-05-17,0,0,5,0,Miami FL
 196,Belgium,US-FL-528,2026-05-24,0,0,0,0,Miami FL
 197,Belgium,US-FL-528,2026-05-31,0,0,0,0,Miami FL
 198,Belgium,US-FL-528,2026-06-07,0,0,0,0,Miami FL
-199,Belgium,US-FL-528,2026-06-14,0,0,22,4,Miami FL
-200,Belgium,US-FL-528,2026-06-21,4,0,113,13,Miami FL
-201,Belgium,US-FL-528,2026-06-28,5,0,63,0,Miami FL
-202,Belgium,US-FL-528,2026-07-05,0,0,156,14,Miami FL
-203,Belgium,US-FL-528,2026-07-12,0,0,280,55,Miami FL
-204,Belgium,US-FL-528,2026-07-19,0,0,25,0,Miami FL
+199,Belgium,US-FL-528,2026-06-14,0,0,20,0,Miami FL
+200,Belgium,US-FL-528,2026-06-21,0,0,110,15,Miami FL
+201,Belgium,US-FL-528,2026-06-28,0,0,67,5,Miami FL
+202,Belgium,US-FL-528,2026-07-05,0,0,151,21,Miami FL
+203,Belgium,US-FL-528,2026-07-12,10,0,285,60,Miami FL
+204,Belgium,US-FL-528,2026-07-19,0,0,19,0,Miami FL
 205,Belgium,US-FL-528,2026-07-26,0,0,0,0,Miami FL
 206,Belgium,US-FL-528,2026-08-02,0,0,0,0,Miami FL
 207,Belgium,US-FL-528,2026-08-09,0,0,0,0,Miami FL
@@ -213,102 +213,102 @@
 211,Belgium,US-GA-524,2026-05-24,0,0,0,0,Atlanta GA
 212,Belgium,US-GA-524,2026-05-31,0,0,0,0,Atlanta GA
 213,Belgium,US-GA-524,2026-06-07,0,0,0,0,Atlanta GA
-214,Belgium,US-GA-524,2026-06-14,0,0,7,0,Atlanta GA
-215,Belgium,US-GA-524,2026-06-21,0,0,89,12,Atlanta GA
-216,Belgium,US-GA-524,2026-06-28,0,0,57,0,Atlanta GA
-217,Belgium,US-GA-524,2026-07-05,4,0,155,29,Atlanta GA
-218,Belgium,US-GA-524,2026-07-12,14,0,276,67,Atlanta GA
-219,Belgium,US-GA-524,2026-07-19,0,0,8,0,Atlanta GA
+214,Belgium,US-GA-524,2026-06-14,3,0,10,0,Atlanta GA
+215,Belgium,US-GA-524,2026-06-21,0,0,89,10,Atlanta GA
+216,Belgium,US-GA-524,2026-06-28,0,0,56,4,Atlanta GA
+217,Belgium,US-GA-524,2026-07-05,4,0,158,28,Atlanta GA
+218,Belgium,US-GA-524,2026-07-12,11,0,278,69,Atlanta GA
+219,Belgium,US-GA-524,2026-07-19,0,0,7,0,Atlanta GA
 220,Belgium,US-GA-524,2026-07-26,0,0,0,0,Atlanta GA
 221,Belgium,US-GA-524,2026-08-02,0,0,0,0,Atlanta GA
 222,Belgium,US-GA-524,2026-08-09,0,0,0,0,Atlanta GA
 223,Belgium,US-GA-524,2026-08-16,0,0,0,0,Atlanta GA
 224,Belgium,US-GA-524,2026-08-23,0,0,0,0,Atlanta GA
-225,Belgium,US-MA-506,2026-05-17,0,0,0,0,Boston MA
-226,Belgium,US-MA-506,2026-05-24,0,0,0,0,Boston MA
-227,Belgium,US-MA-506,2026-05-31,0,0,0,0,Boston MA
-228,Belgium,US-MA-506,2026-06-07,0,0,5,0,Boston MA
-229,Belgium,US-MA-506,2026-06-14,0,0,15,0,Boston MA
-230,Belgium,US-MA-506,2026-06-21,0,0,81,9,Boston MA
-231,Belgium,US-MA-506,2026-06-28,0,0,59,0,Boston MA
-232,Belgium,US-MA-506,2026-07-05,0,3,147,27,Boston MA
-233,Belgium,US-MA-506,2026-07-12,3,0,270,61,Boston MA
-234,Belgium,US-MA-506,2026-07-19,0,0,6,0,Boston MA
-235,Belgium,US-MA-506,2026-07-26,0,0,3,0,Boston MA
-236,Belgium,US-MA-506,2026-08-02,0,0,0,0,Boston MA
-237,Belgium,US-MA-506,2026-08-09,0,0,0,0,Boston MA
-238,Belgium,US-MA-506,2026-08-16,0,0,0,0,Boston MA
-239,Belgium,US-MA-506,2026-08-23,0,0,0,0,Boston MA
+225,Belgium,US-IL-602,2026-05-17,0,0,0,0,Chicago IL
+226,Belgium,US-IL-602,2026-05-24,0,0,0,0,Chicago IL
+227,Belgium,US-IL-602,2026-05-31,0,0,0,2,Chicago IL
+228,Belgium,US-IL-602,2026-06-07,0,0,0,0,Chicago IL
+229,Belgium,US-IL-602,2026-06-14,0,0,16,0,Chicago IL
+230,Belgium,US-IL-602,2026-06-21,2,0,87,13,Chicago IL
+231,Belgium,US-IL-602,2026-06-28,0,0,72,5,Chicago IL
+232,Belgium,US-IL-602,2026-07-05,0,0,138,27,Chicago IL
+233,Belgium,US-IL-602,2026-07-12,3,0,262,70,Chicago IL
+234,Belgium,US-IL-602,2026-07-19,0,0,3,2,Chicago IL
+235,Belgium,US-IL-602,2026-07-26,0,0,0,4,Chicago IL
+236,Belgium,US-IL-602,2026-08-02,0,0,0,0,Chicago IL
+237,Belgium,US-IL-602,2026-08-09,0,0,0,0,Chicago IL
+238,Belgium,US-IL-602,2026-08-16,0,0,0,0,Chicago IL
+239,Belgium,US-IL-602,2026-08-23,0,0,0,0,Chicago IL
 240,Belgium,US-MO-616,2026-05-17,0,0,0,0,Kansas City MO
-241,Belgium,US-MO-616,2026-05-24,0,0,0,0,Kansas City MO
+241,Belgium,US-MO-616,2026-05-24,0,0,0,9,Kansas City MO
 242,Belgium,US-MO-616,2026-05-31,0,0,0,0,Kansas City MO
 243,Belgium,US-MO-616,2026-06-07,0,0,0,0,Kansas City MO
 244,Belgium,US-MO-616,2026-06-14,0,0,0,0,Kansas City MO
-245,Belgium,US-MO-616,2026-06-21,0,0,82,0,Kansas City MO
-246,Belgium,US-MO-616,2026-06-28,9,0,47,0,Kansas City MO
-247,Belgium,US-MO-616,2026-07-05,0,11,158,30,Kansas City MO
-248,Belgium,US-MO-616,2026-07-12,13,0,282,65,Kansas City MO
+245,Belgium,US-MO-616,2026-06-21,0,0,78,0,Kansas City MO
+246,Belgium,US-MO-616,2026-06-28,0,0,41,0,Kansas City MO
+247,Belgium,US-MO-616,2026-07-05,10,0,162,17,Kansas City MO
+248,Belgium,US-MO-616,2026-07-12,0,0,263,63,Kansas City MO
 249,Belgium,US-MO-616,2026-07-19,0,0,0,0,Kansas City MO
 250,Belgium,US-MO-616,2026-07-26,0,0,0,0,Kansas City MO
 251,Belgium,US-MO-616,2026-08-02,0,0,0,0,Kansas City MO
-252,Belgium,US-MO-616,2026-08-09,0,12,0,0,Kansas City MO
-253,Belgium,US-MO-616,2026-08-16,0,0,0,1,Kansas City MO
+252,Belgium,US-MO-616,2026-08-09,0,0,0,0,Kansas City MO
+253,Belgium,US-MO-616,2026-08-16,0,0,0,0,Kansas City MO
 254,Belgium,US-MO-616,2026-08-23,0,0,0,0,Kansas City MO
 255,Belgium,US-NY-501,2026-05-17,0,0,0,0,New York NY
 256,Belgium,US-NY-501,2026-05-24,0,0,0,0,New York NY
-257,Belgium,US-NY-501,2026-05-31,1,0,0,0,New York NY
-258,Belgium,US-NY-501,2026-06-07,0,0,7,1,New York NY
-259,Belgium,US-NY-501,2026-06-14,1,0,20,2,New York NY
-260,Belgium,US-NY-501,2026-06-21,4,0,104,12,New York NY
-261,Belgium,US-NY-501,2026-06-28,1,0,72,5,New York NY
-262,Belgium,US-NY-501,2026-07-05,5,0,139,25,New York NY
-263,Belgium,US-NY-501,2026-07-12,11,1,268,57,New York NY
-264,Belgium,US-NY-501,2026-07-19,0,0,16,0,New York NY
+257,Belgium,US-NY-501,2026-05-31,0,0,1,0,New York NY
+258,Belgium,US-NY-501,2026-06-07,1,0,6,0,New York NY
+259,Belgium,US-NY-501,2026-06-14,0,0,18,1,New York NY
+260,Belgium,US-NY-501,2026-06-21,3,0,106,11,New York NY
+261,Belgium,US-NY-501,2026-06-28,3,0,72,4,New York NY
+262,Belgium,US-NY-501,2026-07-05,6,0,139,25,New York NY
+263,Belgium,US-NY-501,2026-07-12,11,0,269,57,New York NY
+264,Belgium,US-NY-501,2026-07-19,0,0,18,1,New York NY
 265,Belgium,US-NY-501,2026-07-26,0,0,2,0,New York NY
-266,Belgium,US-NY-501,2026-08-02,0,0,0,0,New York NY
-267,Belgium,US-NY-501,2026-08-09,0,0,1,0,New York NY
+266,Belgium,US-NY-501,2026-08-02,1,0,0,0,New York NY
+267,Belgium,US-NY-501,2026-08-09,0,0,0,0,New York NY
 268,Belgium,US-NY-501,2026-08-16,0,0,0,0,New York NY
 269,Belgium,US-NY-501,2026-08-23,0,0,0,0,New York NY
 270,Belgium,US-PA-504,2026-05-17,0,0,0,0,Philidelphia PA
 271,Belgium,US-PA-504,2026-05-24,0,0,0,0,Philidelphia PA
 272,Belgium,US-PA-504,2026-05-31,0,0,0,0,Philidelphia PA
-273,Belgium,US-PA-504,2026-06-07,0,3,0,0,Philidelphia PA
-274,Belgium,US-PA-504,2026-06-14,0,0,14,0,Philidelphia PA
-275,Belgium,US-PA-504,2026-06-21,0,0,79,10,Philidelphia PA
+273,Belgium,US-PA-504,2026-06-07,0,0,3,0,Philidelphia PA
+274,Belgium,US-PA-504,2026-06-14,0,0,7,0,Philidelphia PA
+275,Belgium,US-PA-504,2026-06-21,0,0,85,11,Philidelphia PA
 276,Belgium,US-PA-504,2026-06-28,0,0,61,0,Philidelphia PA
-277,Belgium,US-PA-504,2026-07-05,0,0,140,34,Philidelphia PA
-278,Belgium,US-PA-504,2026-07-12,9,0,254,65,Philidelphia PA
-279,Belgium,US-PA-504,2026-07-19,0,0,6,0,Philidelphia PA
+277,Belgium,US-PA-504,2026-07-05,3,0,144,33,Philidelphia PA
+278,Belgium,US-PA-504,2026-07-12,3,0,255,67,Philidelphia PA
+279,Belgium,US-PA-504,2026-07-19,0,0,3,0,Philidelphia PA
 280,Belgium,US-PA-504,2026-07-26,0,0,0,0,Philidelphia PA
 281,Belgium,US-PA-504,2026-08-02,0,0,0,0,Philidelphia PA
 282,Belgium,US-PA-504,2026-08-09,0,0,0,0,Philidelphia PA
-283,Belgium,US-PA-504,2026-08-16,0,0,0,0,Philidelphia PA
+283,Belgium,US-PA-504,2026-08-16,0,0,1,0,Philidelphia PA
 284,Belgium,US-PA-504,2026-08-23,0,0,0,0,Philidelphia PA
 285,Belgium,US-TX-618,2026-05-17,0,0,0,0,Houston TX
 286,Belgium,US-TX-618,2026-05-24,0,0,0,0,Houston TX
 287,Belgium,US-TX-618,2026-05-31,0,0,0,0,Houston TX
-288,Belgium,US-TX-618,2026-06-07,0,0,0,0,Houston TX
-289,Belgium,US-TX-618,2026-06-14,0,0,16,0,Houston TX
-290,Belgium,US-TX-618,2026-06-21,7,0,92,9,Houston TX
-291,Belgium,US-TX-618,2026-06-28,4,3,72,0,Houston TX
-292,Belgium,US-TX-618,2026-07-05,3,3,157,25,Houston TX
-293,Belgium,US-TX-618,2026-07-12,11,0,275,56,Houston TX
-294,Belgium,US-TX-618,2026-07-19,0,0,6,0,Houston TX
+288,Belgium,US-TX-618,2026-06-07,0,0,4,0,Houston TX
+289,Belgium,US-TX-618,2026-06-14,0,0,15,0,Houston TX
+290,Belgium,US-TX-618,2026-06-21,0,0,93,10,Houston TX
+291,Belgium,US-TX-618,2026-06-28,0,0,74,5,Houston TX
+292,Belgium,US-TX-618,2026-07-05,6,0,161,26,Houston TX
+293,Belgium,US-TX-618,2026-07-12,9,0,276,50,Houston TX
+294,Belgium,US-TX-618,2026-07-19,0,0,3,0,Houston TX
 295,Belgium,US-TX-618,2026-07-26,0,0,0,0,Houston TX
 296,Belgium,US-TX-618,2026-08-02,0,0,0,0,Houston TX
-297,Belgium,US-TX-618,2026-08-09,0,0,0,0,Houston TX
+297,Belgium,US-TX-618,2026-08-09,0,3,0,0,Houston TX
 298,Belgium,US-TX-618,2026-08-16,0,0,0,0,Houston TX
 299,Belgium,US-TX-618,2026-08-23,0,0,0,0,Houston TX
 300,Belgium,US-TX-623,2026-05-17,0,0,0,0,Dallas TX
-301,Belgium,US-TX-623,2026-05-24,0,3,0,0,Dallas TX
+301,Belgium,US-TX-623,2026-05-24,0,0,0,0,Dallas TX
 302,Belgium,US-TX-623,2026-05-31,0,0,0,0,Dallas TX
 303,Belgium,US-TX-623,2026-06-07,0,0,0,0,Dallas TX
-304,Belgium,US-TX-623,2026-06-14,0,0,12,0,Dallas TX
-305,Belgium,US-TX-623,2026-06-21,3,0,86,8,Dallas TX
-306,Belgium,US-TX-623,2026-06-28,0,0,61,3,Dallas TX
-307,Belgium,US-TX-623,2026-07-05,3,0,162,30,Dallas TX
-308,Belgium,US-TX-623,2026-07-12,11,0,295,55,Dallas TX
-309,Belgium,US-TX-623,2026-07-19,0,0,3,0,Dallas TX
+304,Belgium,US-TX-623,2026-06-14,0,0,11,2,Dallas TX
+305,Belgium,US-TX-623,2026-06-21,3,0,80,9,Dallas TX
+306,Belgium,US-TX-623,2026-06-28,0,0,63,2,Dallas TX
+307,Belgium,US-TX-623,2026-07-05,2,0,164,30,Dallas TX
+308,Belgium,US-TX-623,2026-07-12,12,0,297,58,Dallas TX
+309,Belgium,US-TX-623,2026-07-19,0,0,13,0,Dallas TX
 310,Belgium,US-TX-623,2026-07-26,0,0,0,0,Dallas TX
 311,Belgium,US-TX-623,2026-08-02,0,0,0,0,Dallas TX
 312,Belgium,US-TX-623,2026-08-09,0,0,0,0,Dallas TX
@@ -317,44 +317,44 @@
 315,Belgium,US-WA-819,2026-05-17,0,0,0,0,Seattle WA
 316,Belgium,US-WA-819,2026-05-24,0,0,0,0,Seattle WA
 317,Belgium,US-WA-819,2026-05-31,0,0,0,0,Seattle WA
-318,Belgium,US-WA-819,2026-06-07,0,0,10,0,Seattle WA
-319,Belgium,US-WA-819,2026-06-14,0,0,38,0,Seattle WA
-320,Belgium,US-WA-819,2026-06-21,0,0,108,14,Seattle WA
-321,Belgium,US-WA-819,2026-06-28,0,0,63,7,Seattle WA
-322,Belgium,US-WA-819,2026-07-05,6,0,193,35,Seattle WA
-323,Belgium,US-WA-819,2026-07-12,8,0,274,52,Seattle WA
+318,Belgium,US-WA-819,2026-06-07,0,0,6,0,Seattle WA
+319,Belgium,US-WA-819,2026-06-14,0,0,39,0,Seattle WA
+320,Belgium,US-WA-819,2026-06-21,2,0,105,14,Seattle WA
+321,Belgium,US-WA-819,2026-06-28,5,0,66,5,Seattle WA
+322,Belgium,US-WA-819,2026-07-05,5,0,198,34,Seattle WA
+323,Belgium,US-WA-819,2026-07-12,9,0,273,55,Seattle WA
 324,Belgium,US-WA-819,2026-07-19,0,0,14,0,Seattle WA
 325,Belgium,US-WA-819,2026-07-26,0,0,0,0,Seattle WA
 326,Belgium,US-WA-819,2026-08-02,0,0,0,0,Seattle WA
 327,Belgium,US-WA-819,2026-08-09,0,0,0,0,Seattle WA
-328,Belgium,US-WA-819,2026-08-16,0,0,0,0,Seattle WA
+328,Belgium,US-WA-819,2026-08-16,4,0,0,0,Seattle WA
 329,Belgium,US-WA-819,2026-08-23,0,0,0,0,Seattle WA
 330,Bosnia_and_Herzegovina,US-CA-803,2026-05-17,0,0,0,0,Los Angeles CA
 331,Bosnia_and_Herzegovina,US-CA-803,2026-05-24,0,0,0,0,Los Angeles CA
 332,Bosnia_and_Herzegovina,US-CA-803,2026-05-31,0,0,0,0,Los Angeles CA
 333,Bosnia_and_Herzegovina,US-CA-803,2026-06-07,0,0,0,0,Los Angeles CA
-334,Bosnia_and_Herzegovina,US-CA-803,2026-06-14,5,4,116,24,Los Angeles CA
-335,Bosnia_and_Herzegovina,US-CA-803,2026-06-21,0,0,54,0,Los Angeles CA
-336,Bosnia_and_Herzegovina,US-CA-803,2026-06-28,0,0,65,0,Los Angeles CA
-337,Bosnia_and_Herzegovina,US-CA-803,2026-07-05,5,0,205,48,Los Angeles CA
-338,Bosnia_and_Herzegovina,US-CA-803,2026-07-12,0,0,3,0,Los Angeles CA
+334,Bosnia_and_Herzegovina,US-CA-803,2026-06-14,5,0,120,32,Los Angeles CA
+335,Bosnia_and_Herzegovina,US-CA-803,2026-06-21,0,0,61,6,Los Angeles CA
+336,Bosnia_and_Herzegovina,US-CA-803,2026-06-28,0,0,60,0,Los Angeles CA
+337,Bosnia_and_Herzegovina,US-CA-803,2026-07-05,7,0,212,50,Los Angeles CA
+338,Bosnia_and_Herzegovina,US-CA-803,2026-07-12,0,0,0,0,Los Angeles CA
 339,Bosnia_and_Herzegovina,US-CA-803,2026-07-19,0,0,0,0,Los Angeles CA
 340,Bosnia_and_Herzegovina,US-CA-803,2026-07-26,0,0,0,0,Los Angeles CA
 341,Bosnia_and_Herzegovina,US-CA-803,2026-08-02,0,0,0,0,Los Angeles CA
 342,Bosnia_and_Herzegovina,US-CA-803,2026-08-09,0,0,0,0,Los Angeles CA
-343,Bosnia_and_Herzegovina,US-CA-803,2026-08-16,0,0,0,0,Los Angeles CA
+343,Bosnia_and_Herzegovina,US-CA-803,2026-08-16,0,4,0,0,Los Angeles CA
 344,Bosnia_and_Herzegovina,US-CA-803,2026-08-23,0,0,0,0,Los Angeles CA
 345,Bosnia_and_Herzegovina,US-CA-807,2026-05-17,0,0,0,0,San Francisco CA
 346,Bosnia_and_Herzegovina,US-CA-807,2026-05-24,0,0,0,0,San Francisco CA
 347,Bosnia_and_Herzegovina,US-CA-807,2026-05-31,0,0,0,0,San Francisco CA
 348,Bosnia_and_Herzegovina,US-CA-807,2026-06-07,0,0,0,0,San Francisco CA
-349,Bosnia_and_Herzegovina,US-CA-807,2026-06-14,0,0,102,17,San Francisco CA
-350,Bosnia_and_Herzegovina,US-CA-807,2026-06-21,0,6,28,0,San Francisco CA
-351,Bosnia_and_Herzegovina,US-CA-807,2026-06-28,0,0,63,6,San Francisco CA
-352,Bosnia_and_Herzegovina,US-CA-807,2026-07-05,0,0,235,53,San Francisco CA
-353,Bosnia_and_Herzegovina,US-CA-807,2026-07-12,0,0,0,0,San Francisco CA
+349,Bosnia_and_Herzegovina,US-CA-807,2026-06-14,0,0,98,15,San Francisco CA
+350,Bosnia_and_Herzegovina,US-CA-807,2026-06-21,0,0,30,0,San Francisco CA
+351,Bosnia_and_Herzegovina,US-CA-807,2026-06-28,0,0,62,0,San Francisco CA
+352,Bosnia_and_Herzegovina,US-CA-807,2026-07-05,6,0,228,49,San Francisco CA
+353,Bosnia_and_Herzegovina,US-CA-807,2026-07-12,0,0,5,0,San Francisco CA
 354,Bosnia_and_Herzegovina,US-CA-807,2026-07-19,0,0,0,0,San Francisco CA
-355,Bosnia_and_Herzegovina,US-CA-807,2026-07-26,0,0,0,0,San Francisco CA
+355,Bosnia_and_Herzegovina,US-CA-807,2026-07-26,0,0,6,0,San Francisco CA
 356,Bosnia_and_Herzegovina,US-CA-807,2026-08-02,0,0,0,0,San Francisco CA
 357,Bosnia_and_Herzegovina,US-CA-807,2026-08-09,0,0,0,0,San Francisco CA
 358,Bosnia_and_Herzegovina,US-CA-807,2026-08-16,0,0,0,0,San Francisco CA
@@ -363,70 +363,70 @@
 361,Bosnia_and_Herzegovina,US-GA-524,2026-05-24,0,0,0,0,Atlanta GA
 362,Bosnia_and_Herzegovina,US-GA-524,2026-05-31,0,0,0,0,Atlanta GA
 363,Bosnia_and_Herzegovina,US-GA-524,2026-06-07,0,0,0,0,Atlanta GA
-364,Bosnia_and_Herzegovina,US-GA-524,2026-06-14,0,0,137,27,Atlanta GA
-365,Bosnia_and_Herzegovina,US-GA-524,2026-06-21,0,0,46,0,Atlanta GA
-366,Bosnia_and_Herzegovina,US-GA-524,2026-06-28,0,0,58,0,Atlanta GA
-367,Bosnia_and_Herzegovina,US-GA-524,2026-07-05,0,0,170,71,Atlanta GA
-368,Bosnia_and_Herzegovina,US-GA-524,2026-07-12,0,0,0,0,Atlanta GA
+364,Bosnia_and_Herzegovina,US-GA-524,2026-06-14,0,0,128,22,Atlanta GA
+365,Bosnia_and_Herzegovina,US-GA-524,2026-06-21,0,0,42,0,Atlanta GA
+366,Bosnia_and_Herzegovina,US-GA-524,2026-06-28,0,0,40,0,Atlanta GA
+367,Bosnia_and_Herzegovina,US-GA-524,2026-07-05,0,0,153,65,Atlanta GA
+368,Bosnia_and_Herzegovina,US-GA-524,2026-07-12,0,0,13,0,Atlanta GA
 369,Bosnia_and_Herzegovina,US-GA-524,2026-07-19,0,0,0,0,Atlanta GA
 370,Bosnia_and_Herzegovina,US-GA-524,2026-07-26,0,0,0,0,Atlanta GA
 371,Bosnia_and_Herzegovina,US-GA-524,2026-08-02,0,0,0,0,Atlanta GA
 372,Bosnia_and_Herzegovina,US-GA-524,2026-08-09,0,0,0,0,Atlanta GA
 373,Bosnia_and_Herzegovina,US-GA-524,2026-08-16,0,0,0,0,Atlanta GA
 374,Bosnia_and_Herzegovina,US-GA-524,2026-08-23,0,0,0,0,Atlanta GA
-375,Bosnia_and_Herzegovina,US-MA-506,2026-05-17,0,0,0,0,Boston MA
-376,Bosnia_and_Herzegovina,US-MA-506,2026-05-24,0,0,0,0,Boston MA
-377,Bosnia_and_Herzegovina,US-MA-506,2026-05-31,0,0,0,0,Boston MA
-378,Bosnia_and_Herzegovina,US-MA-506,2026-06-07,0,0,0,0,Boston MA
-379,Bosnia_and_Herzegovina,US-MA-506,2026-06-14,0,0,110,18,Boston MA
-380,Bosnia_and_Herzegovina,US-MA-506,2026-06-21,11,0,27,0,Boston MA
-381,Bosnia_and_Herzegovina,US-MA-506,2026-06-28,0,0,37,0,Boston MA
-382,Bosnia_and_Herzegovina,US-MA-506,2026-07-05,0,11,164,50,Boston MA
-383,Bosnia_and_Herzegovina,US-MA-506,2026-07-12,0,0,0,0,Boston MA
-384,Bosnia_and_Herzegovina,US-MA-506,2026-07-19,0,0,0,0,Boston MA
-385,Bosnia_and_Herzegovina,US-MA-506,2026-07-26,0,0,0,0,Boston MA
-386,Bosnia_and_Herzegovina,US-MA-506,2026-08-02,0,0,0,0,Boston MA
-387,Bosnia_and_Herzegovina,US-MA-506,2026-08-09,0,0,0,0,Boston MA
-388,Bosnia_and_Herzegovina,US-MA-506,2026-08-16,0,0,0,0,Boston MA
-389,Bosnia_and_Herzegovina,US-MA-506,2026-08-23,0,0,0,0,Boston MA
-390,Bosnia_and_Herzegovina,US-MO-616,2026-05-17,0,0,0,0,Kansas City MO
-391,Bosnia_and_Herzegovina,US-MO-616,2026-05-24,0,0,0,0,Kansas City MO
-392,Bosnia_and_Herzegovina,US-MO-616,2026-05-31,0,0,0,0,Kansas City MO
-393,Bosnia_and_Herzegovina,US-MO-616,2026-06-07,0,0,0,0,Kansas City MO
-394,Bosnia_and_Herzegovina,US-MO-616,2026-06-14,0,0,82,43,Kansas City MO
-395,Bosnia_and_Herzegovina,US-MO-616,2026-06-21,0,0,41,0,Kansas City MO
-396,Bosnia_and_Herzegovina,US-MO-616,2026-06-28,0,0,0,0,Kansas City MO
-397,Bosnia_and_Herzegovina,US-MO-616,2026-07-05,0,0,100,50,Kansas City MO
-398,Bosnia_and_Herzegovina,US-MO-616,2026-07-12,0,0,0,0,Kansas City MO
-399,Bosnia_and_Herzegovina,US-MO-616,2026-07-19,0,0,0,0,Kansas City MO
-400,Bosnia_and_Herzegovina,US-MO-616,2026-07-26,0,0,0,0,Kansas City MO
-401,Bosnia_and_Herzegovina,US-MO-616,2026-08-02,0,0,0,0,Kansas City MO
-402,Bosnia_and_Herzegovina,US-MO-616,2026-08-09,0,0,0,0,Kansas City MO
-403,Bosnia_and_Herzegovina,US-MO-616,2026-08-16,0,0,0,0,Kansas City MO
-404,Bosnia_and_Herzegovina,US-MO-616,2026-08-23,0,0,0,0,Kansas City MO
-405,Bosnia_and_Herzegovina,US-NY-501,2026-05-17,0,0,0,0,New York NY
-406,Bosnia_and_Herzegovina,US-NY-501,2026-05-24,0,0,0,0,New York NY
-407,Bosnia_and_Herzegovina,US-NY-501,2026-05-31,0,0,0,0,New York NY
-408,Bosnia_and_Herzegovina,US-NY-501,2026-06-07,0,0,0,0,New York NY
-409,Bosnia_and_Herzegovina,US-NY-501,2026-06-14,4,0,130,28,New York NY
-410,Bosnia_and_Herzegovina,US-NY-501,2026-06-21,0,0,63,7,New York NY
-411,Bosnia_and_Herzegovina,US-NY-501,2026-06-28,0,0,66,0,New York NY
-412,Bosnia_and_Herzegovina,US-NY-501,2026-07-05,0,0,175,50,New York NY
-413,Bosnia_and_Herzegovina,US-NY-501,2026-07-12,0,0,4,0,New York NY
-414,Bosnia_and_Herzegovina,US-NY-501,2026-07-19,0,4,0,0,New York NY
-415,Bosnia_and_Herzegovina,US-NY-501,2026-07-26,0,0,0,0,New York NY
-416,Bosnia_and_Herzegovina,US-NY-501,2026-08-02,0,0,0,0,New York NY
-417,Bosnia_and_Herzegovina,US-NY-501,2026-08-09,5,0,0,0,New York NY
-418,Bosnia_and_Herzegovina,US-NY-501,2026-08-16,0,0,0,0,New York NY
-419,Bosnia_and_Herzegovina,US-NY-501,2026-08-23,0,0,0,0,New York NY
+375,Bosnia_and_Herzegovina,US-IL-602,2026-05-17,0,0,0,0,Chicago IL
+376,Bosnia_and_Herzegovina,US-IL-602,2026-05-24,0,0,0,0,Chicago IL
+377,Bosnia_and_Herzegovina,US-IL-602,2026-05-31,0,0,0,0,Chicago IL
+378,Bosnia_and_Herzegovina,US-IL-602,2026-06-07,0,0,0,0,Chicago IL
+379,Bosnia_and_Herzegovina,US-IL-602,2026-06-14,0,0,115,34,Chicago IL
+380,Bosnia_and_Herzegovina,US-IL-602,2026-06-21,0,0,30,0,Chicago IL
+381,Bosnia_and_Herzegovina,US-IL-602,2026-06-28,0,0,49,0,Chicago IL
+382,Bosnia_and_Herzegovina,US-IL-602,2026-07-05,0,0,181,75,Chicago IL
+383,Bosnia_and_Herzegovina,US-IL-602,2026-07-12,0,0,0,0,Chicago IL
+384,Bosnia_and_Herzegovina,US-IL-602,2026-07-19,0,0,0,0,Chicago IL
+385,Bosnia_and_Herzegovina,US-IL-602,2026-07-26,0,0,0,0,Chicago IL
+386,Bosnia_and_Herzegovina,US-IL-602,2026-08-02,0,0,0,0,Chicago IL
+387,Bosnia_and_Herzegovina,US-IL-602,2026-08-09,0,0,0,0,Chicago IL
+388,Bosnia_and_Herzegovina,US-IL-602,2026-08-16,0,0,0,0,Chicago IL
+389,Bosnia_and_Herzegovina,US-IL-602,2026-08-23,0,0,0,0,Chicago IL
+390,Bosnia_and_Herzegovina,US-MA-506,2026-05-17,0,0,0,0,Boston MA
+391,Bosnia_and_Herzegovina,US-MA-506,2026-05-24,0,0,0,10,Boston MA
+392,Bosnia_and_Herzegovina,US-MA-506,2026-05-31,0,0,0,0,Boston MA
+393,Bosnia_and_Herzegovina,US-MA-506,2026-06-07,0,8,0,0,Boston MA
+394,Bosnia_and_Herzegovina,US-MA-506,2026-06-14,0,0,94,18,Boston MA
+395,Bosnia_and_Herzegovina,US-MA-506,2026-06-21,0,0,22,0,Boston MA
+396,Bosnia_and_Herzegovina,US-MA-506,2026-06-28,0,0,34,0,Boston MA
+397,Bosnia_and_Herzegovina,US-MA-506,2026-07-05,0,0,174,46,Boston MA
+398,Bosnia_and_Herzegovina,US-MA-506,2026-07-12,0,0,0,0,Boston MA
+399,Bosnia_and_Herzegovina,US-MA-506,2026-07-19,0,0,0,0,Boston MA
+400,Bosnia_and_Herzegovina,US-MA-506,2026-07-26,0,0,12,0,Boston MA
+401,Bosnia_and_Herzegovina,US-MA-506,2026-08-02,0,0,0,0,Boston MA
+402,Bosnia_and_Herzegovina,US-MA-506,2026-08-09,0,0,0,0,Boston MA
+403,Bosnia_and_Herzegovina,US-MA-506,2026-08-16,0,0,0,0,Boston MA
+404,Bosnia_and_Herzegovina,US-MA-506,2026-08-23,0,0,0,0,Boston MA
+405,Bosnia_and_Herzegovina,US-MO-616,2026-05-17,0,0,0,0,Kansas City MO
+406,Bosnia_and_Herzegovina,US-MO-616,2026-05-24,0,0,0,0,Kansas City MO
+407,Bosnia_and_Herzegovina,US-MO-616,2026-05-31,0,0,0,0,Kansas City MO
+408,Bosnia_and_Herzegovina,US-MO-616,2026-06-07,0,0,0,0,Kansas City MO
+409,Bosnia_and_Herzegovina,US-MO-616,2026-06-14,0,0,78,0,Kansas City MO
+410,Bosnia_and_Herzegovina,US-MO-616,2026-06-21,0,0,46,0,Kansas City MO
+411,Bosnia_and_Herzegovina,US-MO-616,2026-06-28,0,0,0,0,Kansas City MO
+412,Bosnia_and_Herzegovina,US-MO-616,2026-07-05,0,0,156,52,Kansas City MO
+413,Bosnia_and_Herzegovina,US-MO-616,2026-07-12,0,0,0,0,Kansas City MO
+414,Bosnia_and_Herzegovina,US-MO-616,2026-07-19,0,0,0,0,Kansas City MO
+415,Bosnia_and_Herzegovina,US-MO-616,2026-07-26,0,0,0,0,Kansas City MO
+416,Bosnia_and_Herzegovina,US-MO-616,2026-08-02,0,0,0,0,Kansas City MO
+417,Bosnia_and_Herzegovina,US-MO-616,2026-08-09,0,58,0,0,Kansas City MO
+418,Bosnia_and_Herzegovina,US-MO-616,2026-08-16,0,0,0,0,Kansas City MO
+419,Bosnia_and_Herzegovina,US-MO-616,2026-08-23,0,0,0,0,Kansas City MO
 420,Bosnia_and_Herzegovina,US-PA-504,2026-05-17,0,0,0,0,Philidelphia PA
 421,Bosnia_and_Herzegovina,US-PA-504,2026-05-24,0,0,0,0,Philidelphia PA
 422,Bosnia_and_Herzegovina,US-PA-504,2026-05-31,0,0,0,0,Philidelphia PA
 423,Bosnia_and_Herzegovina,US-PA-504,2026-06-07,0,0,0,0,Philidelphia PA
-424,Bosnia_and_Herzegovina,US-PA-504,2026-06-14,0,0,94,36,Philidelphia PA
+424,Bosnia_and_Herzegovina,US-PA-504,2026-06-14,0,0,82,17,Philidelphia PA
 425,Bosnia_and_Herzegovina,US-PA-504,2026-06-21,0,0,29,0,Philidelphia PA
-426,Bosnia_and_Herzegovina,US-PA-504,2026-06-28,0,0,67,0,Philidelphia PA
-427,Bosnia_and_Herzegovina,US-PA-504,2026-07-05,23,0,160,63,Philidelphia PA
+426,Bosnia_and_Herzegovina,US-PA-504,2026-06-28,0,0,78,0,Philidelphia PA
+427,Bosnia_and_Herzegovina,US-PA-504,2026-07-05,0,0,151,51,Philidelphia PA
 428,Bosnia_and_Herzegovina,US-PA-504,2026-07-12,0,0,0,0,Philidelphia PA
 429,Bosnia_and_Herzegovina,US-PA-504,2026-07-19,0,0,0,0,Philidelphia PA
 430,Bosnia_and_Herzegovina,US-PA-504,2026-07-26,0,0,0,0,Philidelphia PA
@@ -436,27 +436,27 @@
 434,Bosnia_and_Herzegovina,US-PA-504,2026-08-23,0,0,0,0,Philidelphia PA
 435,Bosnia_and_Herzegovina,US-TX-618,2026-05-17,0,0,0,0,Houston TX
 436,Bosnia_and_Herzegovina,US-TX-618,2026-05-24,0,0,0,0,Houston TX
-437,Bosnia_and_Herzegovina,US-TX-618,2026-05-31,0,0,0,0,Houston TX
+437,Bosnia_and_Herzegovina,US-TX-618,2026-05-31,0,0,0,12,Houston TX
 438,Bosnia_and_Herzegovina,US-TX-618,2026-06-07,0,0,0,0,Houston TX
-439,Bosnia_and_Herzegovina,US-TX-618,2026-06-14,0,0,102,31,Houston TX
-440,Bosnia_and_Herzegovina,US-TX-618,2026-06-21,0,0,35,0,Houston TX
-441,Bosnia_and_Herzegovina,US-TX-618,2026-06-28,0,0,55,0,Houston TX
-442,Bosnia_and_Herzegovina,US-TX-618,2026-07-05,0,0,199,31,Houston TX
-443,Bosnia_and_Herzegovina,US-TX-618,2026-07-12,0,0,0,11,Houston TX
+439,Bosnia_and_Herzegovina,US-TX-618,2026-06-14,0,0,112,35,Houston TX
+440,Bosnia_and_Herzegovina,US-TX-618,2026-06-21,0,0,28,0,Houston TX
+441,Bosnia_and_Herzegovina,US-TX-618,2026-06-28,0,0,39,0,Houston TX
+442,Bosnia_and_Herzegovina,US-TX-618,2026-07-05,0,0,202,39,Houston TX
+443,Bosnia_and_Herzegovina,US-TX-618,2026-07-12,0,0,0,0,Houston TX
 444,Bosnia_and_Herzegovina,US-TX-618,2026-07-19,0,0,0,0,Houston TX
 445,Bosnia_and_Herzegovina,US-TX-618,2026-07-26,0,0,0,0,Houston TX
 446,Bosnia_and_Herzegovina,US-TX-618,2026-08-02,0,0,0,0,Houston TX
 447,Bosnia_and_Herzegovina,US-TX-618,2026-08-09,0,0,0,0,Houston TX
-448,Bosnia_and_Herzegovina,US-TX-618,2026-08-16,0,0,0,0,Houston TX
-449,Bosnia_and_Herzegovina,US-TX-618,2026-08-23,0,0,0,0,Houston TX
+448,Bosnia_and_Herzegovina,US-TX-618,2026-08-16,0,1,0,0,Houston TX
+449,Bosnia_and_Herzegovina,US-TX-618,2026-08-23,0,0,0,1,Houston TX
 450,Bosnia_and_Herzegovina,US-TX-623,2026-05-17,0,0,0,0,Dallas TX
-451,Bosnia_and_Herzegovina,US-TX-623,2026-05-24,0,0,0,0,Dallas TX
+451,Bosnia_and_Herzegovina,US-TX-623,2026-05-24,8,0,0,0,Dallas TX
 452,Bosnia_and_Herzegovina,US-TX-623,2026-05-31,0,0,0,0,Dallas TX
 453,Bosnia_and_Herzegovina,US-TX-623,2026-06-07,0,0,0,0,Dallas TX
-454,Bosnia_and_Herzegovina,US-TX-623,2026-06-14,0,0,93,25,Dallas TX
-455,Bosnia_and_Herzegovina,US-TX-623,2026-06-21,0,0,51,0,Dallas TX
-456,Bosnia_and_Herzegovina,US-TX-623,2026-06-28,0,0,51,0,Dallas TX
-457,Bosnia_and_Herzegovina,US-TX-623,2026-07-05,0,0,186,59,Dallas TX
+454,Bosnia_and_Herzegovina,US-TX-623,2026-06-14,0,0,114,24,Dallas TX
+455,Bosnia_and_Herzegovina,US-TX-623,2026-06-21,0,0,41,0,Dallas TX
+456,Bosnia_and_Herzegovina,US-TX-623,2026-06-28,0,0,61,0,Dallas TX
+457,Bosnia_and_Herzegovina,US-TX-623,2026-07-05,0,0,184,58,Dallas TX
 458,Bosnia_and_Herzegovina,US-TX-623,2026-07-12,0,0,0,0,Dallas TX
 459,Bosnia_and_Herzegovina,US-TX-623,2026-07-19,0,0,0,0,Dallas TX
 460,Bosnia_and_Herzegovina,US-TX-623,2026-07-26,0,0,0,0,Dallas TX
@@ -465,13 +465,13 @@
 463,Bosnia_and_Herzegovina,US-TX-623,2026-08-16,0,0,0,0,Dallas TX
 464,Bosnia_and_Herzegovina,US-TX-623,2026-08-23,0,0,0,0,Dallas TX
 465,Bosnia_and_Herzegovina,US-WA-819,2026-05-17,0,0,0,0,Seattle WA
-466,Bosnia_and_Herzegovina,US-WA-819,2026-05-24,0,0,0,0,Seattle WA
+466,Bosnia_and_Herzegovina,US-WA-819,2026-05-24,12,0,0,0,Seattle WA
 467,Bosnia_and_Herzegovina,US-WA-819,2026-05-31,0,0,0,0,Seattle WA
 468,Bosnia_and_Herzegovina,US-WA-819,2026-06-07,0,0,0,0,Seattle WA
-469,Bosnia_and_Herzegovina,US-WA-819,2026-06-14,0,0,87,26,Seattle WA
-470,Bosnia_and_Herzegovina,US-WA-819,2026-06-21,0,0,22,0,Seattle WA
-471,Bosnia_and_Herzegovina,US-WA-819,2026-06-28,0,0,91,0,Seattle WA
-472,Bosnia_and_Herzegovina,US-WA-819,2026-07-05,0,0,182,42,Seattle WA
+469,Bosnia_and_Herzegovina,US-WA-819,2026-06-14,9,0,89,22,Seattle WA
+470,Bosnia_and_Herzegovina,US-WA-819,2026-06-21,0,0,46,0,Seattle WA
+471,Bosnia_and_Herzegovina,US-WA-819,2026-06-28,0,0,111,0,Seattle WA
+472,Bosnia_and_Herzegovina,US-WA-819,2026-07-05,0,0,194,43,Seattle WA
 473,Bosnia_and_Herzegovina,US-WA-819,2026-07-12,0,0,0,0,Seattle WA
 474,Bosnia_and_Herzegovina,US-WA-819,2026-07-19,0,0,0,0,Seattle WA
 475,Bosnia_and_Herzegovina,US-WA-819,2026-07-26,0,0,0,0,Seattle WA
@@ -480,44 +480,44 @@
 478,Bosnia_and_Herzegovina,US-WA-819,2026-08-16,0,0,0,0,Seattle WA
 479,Bosnia_and_Herzegovina,US-WA-819,2026-08-23,0,0,0,0,Seattle WA
 480,Paraguay,US-CA-803,2026-05-17,0,0,0,0,Los Angeles CA
-481,Paraguay,US-CA-803,2026-05-24,0,0,1,0,Los Angeles CA
-482,Paraguay,US-CA-803,2026-05-31,0,0,5,0,Los Angeles CA
-483,Paraguay,US-CA-803,2026-06-07,0,0,12,0,Los Angeles CA
-484,Paraguay,US-CA-803,2026-06-14,5,1,209,59,Los Angeles CA
-485,Paraguay,US-CA-803,2026-06-21,0,0,70,14,Los Angeles CA
-486,Paraguay,US-CA-803,2026-06-28,2,0,70,4,Los Angeles CA
-487,Paraguay,US-CA-803,2026-07-05,15,1,277,27,Los Angeles CA
-488,Paraguay,US-CA-803,2026-07-12,0,0,22,2,Los Angeles CA
-489,Paraguay,US-CA-803,2026-07-19,0,0,4,0,Los Angeles CA
-490,Paraguay,US-CA-803,2026-07-26,0,0,2,0,Los Angeles CA
-491,Paraguay,US-CA-803,2026-08-02,0,0,0,0,Los Angeles CA
+481,Paraguay,US-CA-803,2026-05-24,0,0,0,0,Los Angeles CA
+482,Paraguay,US-CA-803,2026-05-31,0,0,6,0,Los Angeles CA
+483,Paraguay,US-CA-803,2026-06-07,0,0,13,1,Los Angeles CA
+484,Paraguay,US-CA-803,2026-06-14,5,0,210,60,Los Angeles CA
+485,Paraguay,US-CA-803,2026-06-21,0,0,70,13,Los Angeles CA
+486,Paraguay,US-CA-803,2026-06-28,1,0,69,6,Los Angeles CA
+487,Paraguay,US-CA-803,2026-07-05,15,0,279,27,Los Angeles CA
+488,Paraguay,US-CA-803,2026-07-12,0,0,22,1,Los Angeles CA
+489,Paraguay,US-CA-803,2026-07-19,0,0,6,0,Los Angeles CA
+490,Paraguay,US-CA-803,2026-07-26,0,0,3,0,Los Angeles CA
+491,Paraguay,US-CA-803,2026-08-02,0,0,0,1,Los Angeles CA
 492,Paraguay,US-CA-803,2026-08-09,0,0,0,0,Los Angeles CA
 493,Paraguay,US-CA-803,2026-08-16,0,0,0,0,Los Angeles CA
 494,Paraguay,US-CA-803,2026-08-23,0,0,0,0,Los Angeles CA
 495,Paraguay,US-CA-807,2026-05-17,0,0,0,0,San Francisco CA
 496,Paraguay,US-CA-807,2026-05-24,0,0,0,0,San Francisco CA
-497,Paraguay,US-CA-807,2026-05-31,0,0,0,0,San Francisco CA
-498,Paraguay,US-CA-807,2026-06-07,0,0,10,0,San Francisco CA
-499,Paraguay,US-CA-807,2026-06-14,5,0,147,30,San Francisco CA
-500,Paraguay,US-CA-807,2026-06-21,0,0,97,12,San Francisco CA
-501,Paraguay,US-CA-807,2026-06-28,2,0,86,6,San Francisco CA
-502,Paraguay,US-CA-807,2026-07-05,16,2,270,23,San Francisco CA
-503,Paraguay,US-CA-807,2026-07-12,0,0,28,0,San Francisco CA
-504,Paraguay,US-CA-807,2026-07-19,0,0,0,0,San Francisco CA
+497,Paraguay,US-CA-807,2026-05-31,0,0,0,2,San Francisco CA
+498,Paraguay,US-CA-807,2026-06-07,0,0,12,0,San Francisco CA
+499,Paraguay,US-CA-807,2026-06-14,4,0,150,35,San Francisco CA
+500,Paraguay,US-CA-807,2026-06-21,0,0,98,15,San Francisco CA
+501,Paraguay,US-CA-807,2026-06-28,3,0,85,6,San Francisco CA
+502,Paraguay,US-CA-807,2026-07-05,14,0,271,23,San Francisco CA
+503,Paraguay,US-CA-807,2026-07-12,0,0,25,0,San Francisco CA
+504,Paraguay,US-CA-807,2026-07-19,2,0,0,0,San Francisco CA
 505,Paraguay,US-CA-807,2026-07-26,0,0,0,0,San Francisco CA
 506,Paraguay,US-CA-807,2026-08-02,0,0,0,0,San Francisco CA
 507,Paraguay,US-CA-807,2026-08-09,0,0,0,0,San Francisco CA
 508,Paraguay,US-CA-807,2026-08-16,0,0,0,0,San Francisco CA
 509,Paraguay,US-CA-807,2026-08-23,0,0,0,0,San Francisco CA
 510,Paraguay,US-FL-528,2026-05-17,0,0,0,0,Miami FL
-511,Paraguay,US-FL-528,2026-05-24,0,4,0,0,Miami FL
+511,Paraguay,US-FL-528,2026-05-24,0,0,0,0,Miami FL
 512,Paraguay,US-FL-528,2026-05-31,0,0,0,0,Miami FL
-513,Paraguay,US-FL-528,2026-06-07,0,0,0,0,Miami FL
-514,Paraguay,US-FL-528,2026-06-14,0,0,188,52,Miami FL
-515,Paraguay,US-FL-528,2026-06-21,0,0,67,9,Miami FL
-516,Paraguay,US-FL-528,2026-06-28,0,0,71,4,Miami FL
-517,Paraguay,US-FL-528,2026-07-05,6,0,265,24,Miami FL
-518,Paraguay,US-FL-528,2026-07-12,0,0,16,0,Miami FL
+513,Paraguay,US-FL-528,2026-06-07,0,0,5,0,Miami FL
+514,Paraguay,US-FL-528,2026-06-14,5,0,190,54,Miami FL
+515,Paraguay,US-FL-528,2026-06-21,0,0,78,11,Miami FL
+516,Paraguay,US-FL-528,2026-06-28,0,0,74,0,Miami FL
+517,Paraguay,US-FL-528,2026-07-05,9,0,271,22,Miami FL
+518,Paraguay,US-FL-528,2026-07-12,0,0,20,0,Miami FL
 519,Paraguay,US-FL-528,2026-07-19,0,0,0,0,Miami FL
 520,Paraguay,US-FL-528,2026-07-26,0,0,0,0,Miami FL
 521,Paraguay,US-FL-528,2026-08-02,0,0,0,0,Miami FL
@@ -525,272 +525,317 @@
 523,Paraguay,US-FL-528,2026-08-16,0,0,0,0,Miami FL
 524,Paraguay,US-FL-528,2026-08-23,0,0,0,0,Miami FL
 525,Paraguay,US-GA-524,2026-05-17,0,0,0,0,Atlanta GA
-526,Paraguay,US-GA-524,2026-05-24,0,0,4,0,Atlanta GA
-527,Paraguay,US-GA-524,2026-05-31,0,0,3,0,Atlanta GA
-528,Paraguay,US-GA-524,2026-06-07,0,0,5,0,Atlanta GA
-529,Paraguay,US-GA-524,2026-06-14,0,0,185,55,Atlanta GA
-530,Paraguay,US-GA-524,2026-06-21,0,0,80,8,Atlanta GA
-531,Paraguay,US-GA-524,2026-06-28,0,0,57,4,Atlanta GA
-532,Paraguay,US-GA-524,2026-07-05,9,0,257,32,Atlanta GA
-533,Paraguay,US-GA-524,2026-07-12,0,0,21,0,Atlanta GA
+526,Paraguay,US-GA-524,2026-05-24,0,0,0,0,Atlanta GA
+527,Paraguay,US-GA-524,2026-05-31,0,0,0,0,Atlanta GA
+528,Paraguay,US-GA-524,2026-06-07,0,0,0,0,Atlanta GA
+529,Paraguay,US-GA-524,2026-06-14,5,0,191,59,Atlanta GA
+530,Paraguay,US-GA-524,2026-06-21,0,0,82,3,Atlanta GA
+531,Paraguay,US-GA-524,2026-06-28,0,0,56,5,Atlanta GA
+532,Paraguay,US-GA-524,2026-07-05,8,0,264,33,Atlanta GA
+533,Paraguay,US-GA-524,2026-07-12,0,0,20,0,Atlanta GA
 534,Paraguay,US-GA-524,2026-07-19,0,0,0,0,Atlanta GA
-535,Paraguay,US-GA-524,2026-07-26,0,0,0,0,Atlanta GA
-536,Paraguay,US-GA-524,2026-08-02,5,4,0,0,Atlanta GA
+535,Paraguay,US-GA-524,2026-07-26,0,0,6,0,Atlanta GA
+536,Paraguay,US-GA-524,2026-08-02,0,0,0,0,Atlanta GA
 537,Paraguay,US-GA-524,2026-08-09,0,0,0,0,Atlanta GA
 538,Paraguay,US-GA-524,2026-08-16,0,0,0,0,Atlanta GA
 539,Paraguay,US-GA-524,2026-08-23,0,0,0,0,Atlanta GA
-540,Paraguay,US-MA-506,2026-05-17,0,0,0,0,Boston MA
-541,Paraguay,US-MA-506,2026-05-24,0,0,0,0,Boston MA
-542,Paraguay,US-MA-506,2026-05-31,0,0,0,0,Boston MA
-543,Paraguay,US-MA-506,2026-06-07,0,0,0,0,Boston MA
-544,Paraguay,US-MA-506,2026-06-14,7,0,176,60,Boston MA
-545,Paraguay,US-MA-506,2026-06-21,0,0,63,4,Boston MA
-546,Paraguay,US-MA-506,2026-06-28,0,0,56,3,Boston MA
-547,Paraguay,US-MA-506,2026-07-05,11,0,261,36,Boston MA
-548,Paraguay,US-MA-506,2026-07-12,0,0,18,0,Boston MA
-549,Paraguay,US-MA-506,2026-07-19,0,0,3,0,Boston MA
-550,Paraguay,US-MA-506,2026-07-26,0,0,0,0,Boston MA
-551,Paraguay,US-MA-506,2026-08-02,0,0,0,0,Boston MA
-552,Paraguay,US-MA-506,2026-08-09,0,0,0,0,Boston MA
-553,Paraguay,US-MA-506,2026-08-16,0,0,0,0,Boston MA
-554,Paraguay,US-MA-506,2026-08-23,0,0,0,0,Boston MA
-555,Paraguay,US-MO-616,2026-05-17,0,0,0,0,Kansas City MO
-556,Paraguay,US-MO-616,2026-05-24,0,0,0,0,Kansas City MO
-557,Paraguay,US-MO-616,2026-05-31,0,0,0,0,Kansas City MO
-558,Paraguay,US-MO-616,2026-06-07,0,0,0,0,Kansas City MO
-559,Paraguay,US-MO-616,2026-06-14,0,0,197,60,Kansas City MO
-560,Paraguay,US-MO-616,2026-06-21,0,11,52,12,Kansas City MO
-561,Paraguay,US-MO-616,2026-06-28,0,0,45,0,Kansas City MO
-562,Paraguay,US-MO-616,2026-07-05,0,0,210,26,Kansas City MO
-563,Paraguay,US-MO-616,2026-07-12,0,0,12,0,Kansas City MO
-564,Paraguay,US-MO-616,2026-07-19,0,0,0,0,Kansas City MO
-565,Paraguay,US-MO-616,2026-07-26,0,0,0,0,Kansas City MO
-566,Paraguay,US-MO-616,2026-08-02,0,0,0,0,Kansas City MO
-567,Paraguay,US-MO-616,2026-08-09,0,0,0,0,Kansas City MO
-568,Paraguay,US-MO-616,2026-08-16,0,0,0,0,Kansas City MO
-569,Paraguay,US-MO-616,2026-08-23,0,0,0,0,Kansas City MO
-570,Paraguay,US-NY-501,2026-05-17,0,0,0,0,New York NY
-571,Paraguay,US-NY-501,2026-05-24,0,0,0,0,New York NY
-572,Paraguay,US-NY-501,2026-05-31,0,0,4,1,New York NY
-573,Paraguay,US-NY-501,2026-06-07,1,0,12,2,New York NY
-574,Paraguay,US-NY-501,2026-06-14,9,0,164,52,New York NY
-575,Paraguay,US-NY-501,2026-06-21,1,0,76,10,New York NY
-576,Paraguay,US-NY-501,2026-06-28,4,0,71,3,New York NY
-577,Paraguay,US-NY-501,2026-07-05,10,0,284,30,New York NY
-578,Paraguay,US-NY-501,2026-07-12,0,0,26,2,New York NY
-579,Paraguay,US-NY-501,2026-07-19,0,0,5,0,New York NY
-580,Paraguay,US-NY-501,2026-07-26,0,0,0,0,New York NY
-581,Paraguay,US-NY-501,2026-08-02,0,0,0,0,New York NY
-582,Paraguay,US-NY-501,2026-08-09,0,0,0,0,New York NY
-583,Paraguay,US-NY-501,2026-08-16,0,0,0,0,New York NY
-584,Paraguay,US-NY-501,2026-08-23,0,0,0,0,New York NY
-585,Paraguay,US-PA-504,2026-05-17,0,0,0,0,Philidelphia PA
-586,Paraguay,US-PA-504,2026-05-24,0,0,0,0,Philidelphia PA
-587,Paraguay,US-PA-504,2026-05-31,0,0,4,0,Philidelphia PA
-588,Paraguay,US-PA-504,2026-06-07,0,0,4,0,Philidelphia PA
-589,Paraguay,US-PA-504,2026-06-14,0,0,163,57,Philidelphia PA
-590,Paraguay,US-PA-504,2026-06-21,4,0,74,5,Philidelphia PA
-591,Paraguay,US-PA-504,2026-06-28,0,0,55,0,Philidelphia PA
-592,Paraguay,US-PA-504,2026-07-05,4,0,276,36,Philidelphia PA
-593,Paraguay,US-PA-504,2026-07-12,0,0,16,0,Philidelphia PA
-594,Paraguay,US-PA-504,2026-07-19,0,0,0,0,Philidelphia PA
-595,Paraguay,US-PA-504,2026-07-26,0,0,0,0,Philidelphia PA
-596,Paraguay,US-PA-504,2026-08-02,0,0,0,0,Philidelphia PA
-597,Paraguay,US-PA-504,2026-08-09,0,4,0,0,Philidelphia PA
-598,Paraguay,US-PA-504,2026-08-16,0,0,0,0,Philidelphia PA
-599,Paraguay,US-PA-504,2026-08-23,0,0,0,0,Philidelphia PA
-600,Paraguay,US-TX-618,2026-05-17,0,0,0,0,Houston TX
-601,Paraguay,US-TX-618,2026-05-24,0,0,0,0,Houston TX
-602,Paraguay,US-TX-618,2026-05-31,0,0,0,0,Houston TX
-603,Paraguay,US-TX-618,2026-06-07,0,0,0,0,Houston TX
-604,Paraguay,US-TX-618,2026-06-14,4,0,164,53,Houston TX
-605,Paraguay,US-TX-618,2026-06-21,0,0,79,6,Houston TX
-606,Paraguay,US-TX-618,2026-06-28,0,0,44,0,Houston TX
-607,Paraguay,US-TX-618,2026-07-05,5,3,262,27,Houston TX
-608,Paraguay,US-TX-618,2026-07-12,0,0,14,0,Houston TX
-609,Paraguay,US-TX-618,2026-07-19,0,0,4,0,Houston TX
-610,Paraguay,US-TX-618,2026-07-26,0,0,0,0,Houston TX
-611,Paraguay,US-TX-618,2026-08-02,0,0,0,0,Houston TX
-612,Paraguay,US-TX-618,2026-08-09,0,0,0,0,Houston TX
-613,Paraguay,US-TX-618,2026-08-16,0,0,0,0,Houston TX
-614,Paraguay,US-TX-618,2026-08-23,0,0,0,0,Houston TX
-615,Paraguay,US-TX-623,2026-05-17,0,3,0,3,Dallas TX
-616,Paraguay,US-TX-623,2026-05-24,0,0,0,0,Dallas TX
-617,Paraguay,US-TX-623,2026-05-31,0,0,0,0,Dallas TX
-618,Paraguay,US-TX-623,2026-06-07,0,0,3,0,Dallas TX
-619,Paraguay,US-TX-623,2026-06-14,5,0,195,58,Dallas TX
-620,Paraguay,US-TX-623,2026-06-21,2,0,75,9,Dallas TX
-621,Paraguay,US-TX-623,2026-06-28,0,0,53,4,Dallas TX
-622,Paraguay,US-TX-623,2026-07-05,12,0,258,22,Dallas TX
-623,Paraguay,US-TX-623,2026-07-12,0,0,13,0,Dallas TX
-624,Paraguay,US-TX-623,2026-07-19,0,0,3,0,Dallas TX
-625,Paraguay,US-TX-623,2026-07-26,0,0,0,0,Dallas TX
-626,Paraguay,US-TX-623,2026-08-02,0,0,0,0,Dallas TX
-627,Paraguay,US-TX-623,2026-08-09,0,0,0,0,Dallas TX
-628,Paraguay,US-TX-623,2026-08-16,0,0,0,0,Dallas TX
-629,Paraguay,US-TX-623,2026-08-23,0,0,0,0,Dallas TX
-630,Paraguay,US-WA-819,2026-05-17,0,0,0,0,Seattle WA
-631,Paraguay,US-WA-819,2026-05-24,4,3,0,0,Seattle WA
-632,Paraguay,US-WA-819,2026-05-31,0,0,0,0,Seattle WA
-633,Paraguay,US-WA-819,2026-06-07,0,0,0,0,Seattle WA
-634,Paraguay,US-WA-819,2026-06-14,7,0,154,35,Seattle WA
-635,Paraguay,US-WA-819,2026-06-21,0,0,65,7,Seattle WA
-636,Paraguay,US-WA-819,2026-06-28,0,0,64,3,Seattle WA
-637,Paraguay,US-WA-819,2026-07-05,14,0,274,20,Seattle WA
-638,Paraguay,US-WA-819,2026-07-12,0,0,19,3,Seattle WA
-639,Paraguay,US-WA-819,2026-07-19,0,0,0,0,Seattle WA
-640,Paraguay,US-WA-819,2026-07-26,0,0,0,0,Seattle WA
-641,Paraguay,US-WA-819,2026-08-02,0,0,0,0,Seattle WA
-642,Paraguay,US-WA-819,2026-08-09,0,0,0,0,Seattle WA
-643,Paraguay,US-WA-819,2026-08-16,0,0,0,0,Seattle WA
-644,Paraguay,US-WA-819,2026-08-23,0,0,0,0,Seattle WA
-645,Turkey,US-CA-803,2026-05-17,0,0,0,0,Los Angeles CA
-646,Turkey,US-CA-803,2026-05-24,2,0,0,0,Los Angeles CA
-647,Turkey,US-CA-803,2026-05-31,1,0,3,0,Los Angeles CA
-648,Turkey,US-CA-803,2026-06-07,1,1,11,0,Los Angeles CA
-649,Turkey,US-CA-803,2026-06-14,6,0,83,11,Los Angeles CA
-650,Turkey,US-CA-803,2026-06-21,1,0,92,13,Los Angeles CA
-651,Turkey,US-CA-803,2026-06-28,5,0,157,31,Los Angeles CA
-652,Turkey,US-CA-803,2026-07-05,2,0,32,0,Los Angeles CA
-653,Turkey,US-CA-803,2026-07-12,1,0,16,0,Los Angeles CA
-654,Turkey,US-CA-803,2026-07-19,0,0,15,0,Los Angeles CA
-655,Turkey,US-CA-803,2026-07-26,0,0,1,0,Los Angeles CA
-656,Turkey,US-CA-803,2026-08-02,1,0,0,0,Los Angeles CA
-657,Turkey,US-CA-803,2026-08-09,0,1,0,0,Los Angeles CA
-658,Turkey,US-CA-803,2026-08-16,0,0,0,0,Los Angeles CA
-659,Turkey,US-CA-803,2026-08-23,0,0,0,0,Los Angeles CA
-660,Turkey,US-CA-807,2026-05-17,0,0,0,0,San Francisco CA
-661,Turkey,US-CA-807,2026-05-24,0,0,0,0,San Francisco CA
-662,Turkey,US-CA-807,2026-05-31,0,0,6,0,San Francisco CA
-663,Turkey,US-CA-807,2026-06-07,0,0,19,0,San Francisco CA
-664,Turkey,US-CA-807,2026-06-14,2,0,104,10,San Francisco CA
-665,Turkey,US-CA-807,2026-06-21,0,0,133,15,San Francisco CA
-666,Turkey,US-CA-807,2026-06-28,5,0,159,22,San Francisco CA
-667,Turkey,US-CA-807,2026-07-05,0,0,36,0,San Francisco CA
-668,Turkey,US-CA-807,2026-07-12,2,0,26,0,San Francisco CA
-669,Turkey,US-CA-807,2026-07-19,0,0,18,0,San Francisco CA
-670,Turkey,US-CA-807,2026-07-26,0,0,0,0,San Francisco CA
-671,Turkey,US-CA-807,2026-08-02,0,0,4,0,San Francisco CA
-672,Turkey,US-CA-807,2026-08-09,0,0,0,0,San Francisco CA
-673,Turkey,US-CA-807,2026-08-16,0,0,0,0,San Francisco CA
-674,Turkey,US-CA-807,2026-08-23,0,0,0,0,San Francisco CA
-675,Turkey,US-GA-524,2026-05-17,0,0,0,0,Atlanta GA
-676,Turkey,US-GA-524,2026-05-24,0,6,0,0,Atlanta GA
-677,Turkey,US-GA-524,2026-05-31,0,0,0,0,Atlanta GA
-678,Turkey,US-GA-524,2026-06-07,0,0,0,0,Atlanta GA
-679,Turkey,US-GA-524,2026-06-14,0,0,96,5,Atlanta GA
-680,Turkey,US-GA-524,2026-06-21,0,0,104,9,Atlanta GA
-681,Turkey,US-GA-524,2026-06-28,0,0,175,38,Atlanta GA
-682,Turkey,US-GA-524,2026-07-05,6,0,26,0,Atlanta GA
-683,Turkey,US-GA-524,2026-07-12,0,0,0,0,Atlanta GA
-684,Turkey,US-GA-524,2026-07-19,0,0,0,0,Atlanta GA
-685,Turkey,US-GA-524,2026-07-26,0,0,0,0,Atlanta GA
-686,Turkey,US-GA-524,2026-08-02,0,0,0,0,Atlanta GA
-687,Turkey,US-GA-524,2026-08-09,0,0,0,0,Atlanta GA
-688,Turkey,US-GA-524,2026-08-16,0,0,0,0,Atlanta GA
-689,Turkey,US-GA-524,2026-08-23,0,0,0,0,Atlanta GA
-690,Turkey,US-MA-506,2026-05-17,0,0,0,0,Boston MA
-691,Turkey,US-MA-506,2026-05-24,0,0,0,0,Boston MA
-692,Turkey,US-MA-506,2026-05-31,0,0,0,0,Boston MA
-693,Turkey,US-MA-506,2026-06-07,0,0,0,0,Boston MA
-694,Turkey,US-MA-506,2026-06-14,0,0,92,0,Boston MA
-695,Turkey,US-MA-506,2026-06-21,0,0,119,14,Boston MA
-696,Turkey,US-MA-506,2026-06-28,0,0,161,27,Boston MA
-697,Turkey,US-MA-506,2026-07-05,0,0,19,5,Boston MA
-698,Turkey,US-MA-506,2026-07-12,0,0,9,0,Boston MA
-699,Turkey,US-MA-506,2026-07-19,0,0,0,0,Boston MA
-700,Turkey,US-MA-506,2026-07-26,0,0,0,0,Boston MA
-701,Turkey,US-MA-506,2026-08-02,0,0,0,0,Boston MA
-702,Turkey,US-MA-506,2026-08-09,0,0,0,0,Boston MA
-703,Turkey,US-MA-506,2026-08-16,0,0,1,0,Boston MA
-704,Turkey,US-MA-506,2026-08-23,0,0,2,0,Boston MA
-705,Turkey,US-MO-616,2026-05-17,0,0,0,0,Kansas City MO
-706,Turkey,US-MO-616,2026-05-24,0,0,0,0,Kansas City MO
-707,Turkey,US-MO-616,2026-05-31,0,0,0,0,Kansas City MO
-708,Turkey,US-MO-616,2026-06-07,0,0,0,0,Kansas City MO
-709,Turkey,US-MO-616,2026-06-14,0,0,63,0,Kansas City MO
-710,Turkey,US-MO-616,2026-06-21,0,0,88,15,Kansas City MO
-711,Turkey,US-MO-616,2026-06-28,0,0,132,32,Kansas City MO
-712,Turkey,US-MO-616,2026-07-05,0,0,0,0,Kansas City MO
-713,Turkey,US-MO-616,2026-07-12,0,0,0,0,Kansas City MO
-714,Turkey,US-MO-616,2026-07-19,0,0,0,0,Kansas City MO
-715,Turkey,US-MO-616,2026-07-26,0,0,0,0,Kansas City MO
-716,Turkey,US-MO-616,2026-08-02,0,0,0,0,Kansas City MO
-717,Turkey,US-MO-616,2026-08-09,0,0,0,0,Kansas City MO
-718,Turkey,US-MO-616,2026-08-16,0,0,0,0,Kansas City MO
-719,Turkey,US-MO-616,2026-08-23,0,0,0,0,Kansas City MO
-720,Turkey,US-NY-501,2026-05-17,2,0,0,0,New York NY
-721,Turkey,US-NY-501,2026-05-24,1,0,2,0,New York NY
-722,Turkey,US-NY-501,2026-05-31,0,0,4,0,New York NY
-723,Turkey,US-NY-501,2026-06-07,5,0,16,2,New York NY
-724,Turkey,US-NY-501,2026-06-14,8,0,112,15,New York NY
-725,Turkey,US-NY-501,2026-06-21,7,0,136,20,New York NY
-726,Turkey,US-NY-501,2026-06-28,10,0,175,37,New York NY
-727,Turkey,US-NY-501,2026-07-05,2,0,34,1,New York NY
-728,Turkey,US-NY-501,2026-07-12,2,0,22,0,New York NY
-729,Turkey,US-NY-501,2026-07-19,2,0,12,0,New York NY
-730,Turkey,US-NY-501,2026-07-26,0,0,0,0,New York NY
-731,Turkey,US-NY-501,2026-08-02,0,0,0,0,New York NY
-732,Turkey,US-NY-501,2026-08-09,0,0,0,2,New York NY
-733,Turkey,US-NY-501,2026-08-16,0,0,0,0,New York NY
-734,Turkey,US-NY-501,2026-08-23,0,0,0,0,New York NY
-735,Turkey,US-PA-504,2026-05-17,0,0,0,0,Philidelphia PA
-736,Turkey,US-PA-504,2026-05-24,0,0,0,0,Philidelphia PA
-737,Turkey,US-PA-504,2026-05-31,0,0,0,0,Philidelphia PA
-738,Turkey,US-PA-504,2026-06-07,0,6,5,0,Philidelphia PA
-739,Turkey,US-PA-504,2026-06-14,11,0,100,0,Philidelphia PA
-740,Turkey,US-PA-504,2026-06-21,0,0,134,17,Philidelphia PA
-741,Turkey,US-PA-504,2026-06-28,0,0,175,40,Philidelphia PA
-742,Turkey,US-PA-504,2026-07-05,0,0,14,0,Philidelphia PA
-743,Turkey,US-PA-504,2026-07-12,0,0,5,0,Philidelphia PA
-744,Turkey,US-PA-504,2026-07-19,5,0,0,0,Philidelphia PA
-745,Turkey,US-PA-504,2026-07-26,0,0,0,0,Philidelphia PA
-746,Turkey,US-PA-504,2026-08-02,0,0,0,0,Philidelphia PA
-747,Turkey,US-PA-504,2026-08-09,0,0,0,0,Philidelphia PA
-748,Turkey,US-PA-504,2026-08-16,0,0,0,0,Philidelphia PA
-749,Turkey,US-PA-504,2026-08-23,0,0,2,0,Philidelphia PA
-750,Turkey,US-TX-618,2026-05-17,0,0,0,0,Houston TX
-751,Turkey,US-TX-618,2026-05-24,0,0,0,0,Houston TX
-752,Turkey,US-TX-618,2026-05-31,0,0,0,0,Houston TX
-753,Turkey,US-TX-618,2026-06-07,3,0,0,0,Houston TX
-754,Turkey,US-TX-618,2026-06-14,0,0,84,10,Houston TX
-755,Turkey,US-TX-618,2026-06-21,0,0,101,12,Houston TX
-756,Turkey,US-TX-618,2026-06-28,0,0,163,28,Houston TX
-757,Turkey,US-TX-618,2026-07-05,0,0,31,0,Houston TX
-758,Turkey,US-TX-618,2026-07-12,0,0,9,0,Houston TX
-759,Turkey,US-TX-618,2026-07-19,0,0,0,0,Houston TX
-760,Turkey,US-TX-618,2026-07-26,0,0,0,0,Houston TX
-761,Turkey,US-TX-618,2026-08-02,0,0,0,0,Houston TX
-762,Turkey,US-TX-618,2026-08-09,0,0,0,0,Houston TX
-763,Turkey,US-TX-618,2026-08-16,0,0,0,0,Houston TX
-764,Turkey,US-TX-618,2026-08-23,0,0,0,0,Houston TX
-765,Turkey,US-TX-623,2026-05-17,0,0,0,0,Dallas TX
-766,Turkey,US-TX-623,2026-05-24,7,0,0,0,Dallas TX
-767,Turkey,US-TX-623,2026-05-31,0,4,0,0,Dallas TX
-768,Turkey,US-TX-623,2026-06-07,0,0,4,0,Dallas TX
-769,Turkey,US-TX-623,2026-06-14,0,0,81,7,Dallas TX
-770,Turkey,US-TX-623,2026-06-21,0,0,106,17,Dallas TX
-771,Turkey,US-TX-623,2026-06-28,4,0,163,32,Dallas TX
-772,Turkey,US-TX-623,2026-07-05,0,0,36,0,Dallas TX
-773,Turkey,US-TX-623,2026-07-12,0,0,13,0,Dallas TX
-774,Turkey,US-TX-623,2026-07-19,0,0,0,0,Dallas TX
-775,Turkey,US-TX-623,2026-07-26,0,0,0,0,Dallas TX
-776,Turkey,US-TX-623,2026-08-02,0,0,0,0,Dallas TX
-777,Turkey,US-TX-623,2026-08-09,0,0,0,0,Dallas TX
-778,Turkey,US-TX-623,2026-08-16,0,0,0,0,Dallas TX
-779,Turkey,US-TX-623,2026-08-23,0,0,0,0,Dallas TX
-780,Turkey,US-WA-819,2026-05-17,0,0,0,0,Seattle WA
-781,Turkey,US-WA-819,2026-05-24,0,0,0,0,Seattle WA
-782,Turkey,US-WA-819,2026-05-31,0,0,0,0,Seattle WA
-783,Turkey,US-WA-819,2026-06-07,0,0,0,0,Seattle WA
-784,Turkey,US-WA-819,2026-06-14,3,0,82,10,Seattle WA
-785,Turkey,US-WA-819,2026-06-21,0,0,97,15,Seattle WA
-786,Turkey,US-WA-819,2026-06-28,8,0,157,28,Seattle WA
-787,Turkey,US-WA-819,2026-07-05,0,0,34,0,Seattle WA
-788,Turkey,US-WA-819,2026-07-12,0,0,11,0,Seattle WA
-789,Turkey,US-WA-819,2026-07-19,0,0,16,0,Seattle WA
-790,Turkey,US-WA-819,2026-07-26,0,0,0,0,Seattle WA
-791,Turkey,US-WA-819,2026-08-02,0,0,0,0,Seattle WA
-792,Turkey,US-WA-819,2026-08-09,0,0,0,0,Seattle WA
-793,Turkey,US-WA-819,2026-08-16,0,0,0,0,Seattle WA
-794,Turkey,US-WA-819,2026-08-23,0,0,0,0,Seattle WA
+540,Paraguay,US-IL-602,2026-05-17,0,0,0,0,Chicago IL
+541,Paraguay,US-IL-602,2026-05-24,0,0,0,0,Chicago IL
+542,Paraguay,US-IL-602,2026-05-31,0,0,0,0,Chicago IL
+543,Paraguay,US-IL-602,2026-06-07,0,0,0,0,Chicago IL
+544,Paraguay,US-IL-602,2026-06-14,4,0,195,63,Chicago IL
+545,Paraguay,US-IL-602,2026-06-21,0,0,86,13,Chicago IL
+546,Paraguay,US-IL-602,2026-06-28,0,0,75,7,Chicago IL
+547,Paraguay,US-IL-602,2026-07-05,15,0,296,29,Chicago IL
+548,Paraguay,US-IL-602,2026-07-12,0,0,24,0,Chicago IL
+549,Paraguay,US-IL-602,2026-07-19,0,0,0,0,Chicago IL
+550,Paraguay,US-IL-602,2026-07-26,0,0,0,0,Chicago IL
+551,Paraguay,US-IL-602,2026-08-02,0,4,0,0,Chicago IL
+552,Paraguay,US-IL-602,2026-08-09,0,0,0,0,Chicago IL
+553,Paraguay,US-IL-602,2026-08-16,0,0,0,0,Chicago IL
+554,Paraguay,US-IL-602,2026-08-23,0,0,0,0,Chicago IL
+555,Paraguay,US-MA-506,2026-05-17,0,0,0,0,Boston MA
+556,Paraguay,US-MA-506,2026-05-24,0,0,0,0,Boston MA
+557,Paraguay,US-MA-506,2026-05-31,0,0,0,0,Boston MA
+558,Paraguay,US-MA-506,2026-06-07,0,0,4,0,Boston MA
+559,Paraguay,US-MA-506,2026-06-14,6,0,184,63,Boston MA
+560,Paraguay,US-MA-506,2026-06-21,0,0,60,4,Boston MA
+561,Paraguay,US-MA-506,2026-06-28,0,0,53,0,Boston MA
+562,Paraguay,US-MA-506,2026-07-05,11,0,267,36,Boston MA
+563,Paraguay,US-MA-506,2026-07-12,0,0,21,0,Boston MA
+564,Paraguay,US-MA-506,2026-07-19,0,0,0,0,Boston MA
+565,Paraguay,US-MA-506,2026-07-26,0,0,0,0,Boston MA
+566,Paraguay,US-MA-506,2026-08-02,0,0,0,0,Boston MA
+567,Paraguay,US-MA-506,2026-08-09,0,0,0,0,Boston MA
+568,Paraguay,US-MA-506,2026-08-16,0,0,0,0,Boston MA
+569,Paraguay,US-MA-506,2026-08-23,0,0,0,0,Boston MA
+570,Paraguay,US-MO-616,2026-05-17,0,0,0,0,Kansas City MO
+571,Paraguay,US-MO-616,2026-05-24,0,0,0,0,Kansas City MO
+572,Paraguay,US-MO-616,2026-05-31,0,0,0,0,Kansas City MO
+573,Paraguay,US-MO-616,2026-06-07,0,0,0,0,Kansas City MO
+574,Paraguay,US-MO-616,2026-06-14,0,0,181,73,Kansas City MO
+575,Paraguay,US-MO-616,2026-06-21,0,0,75,16,Kansas City MO
+576,Paraguay,US-MO-616,2026-06-28,0,0,44,0,Kansas City MO
+577,Paraguay,US-MO-616,2026-07-05,0,0,189,15,Kansas City MO
+578,Paraguay,US-MO-616,2026-07-12,0,0,0,0,Kansas City MO
+579,Paraguay,US-MO-616,2026-07-19,0,0,0,0,Kansas City MO
+580,Paraguay,US-MO-616,2026-07-26,0,0,0,0,Kansas City MO
+581,Paraguay,US-MO-616,2026-08-02,0,0,0,0,Kansas City MO
+582,Paraguay,US-MO-616,2026-08-09,0,0,0,0,Kansas City MO
+583,Paraguay,US-MO-616,2026-08-16,0,0,0,0,Kansas City MO
+584,Paraguay,US-MO-616,2026-08-23,0,1,0,0,Kansas City MO
+585,Paraguay,US-NY-501,2026-05-17,0,0,0,0,New York NY
+586,Paraguay,US-NY-501,2026-05-24,0,0,0,0,New York NY
+587,Paraguay,US-NY-501,2026-05-31,0,0,0,0,New York NY
+588,Paraguay,US-NY-501,2026-06-07,0,0,10,0,New York NY
+589,Paraguay,US-NY-501,2026-06-14,6,1,167,54,New York NY
+590,Paraguay,US-NY-501,2026-06-21,2,0,78,10,New York NY
+591,Paraguay,US-NY-501,2026-06-28,4,0,70,6,New York NY
+592,Paraguay,US-NY-501,2026-07-05,13,0,286,30,New York NY
+593,Paraguay,US-NY-501,2026-07-12,0,0,24,2,New York NY
+594,Paraguay,US-NY-501,2026-07-19,0,0,8,0,New York NY
+595,Paraguay,US-NY-501,2026-07-26,0,1,0,0,New York NY
+596,Paraguay,US-NY-501,2026-08-02,0,0,0,0,New York NY
+597,Paraguay,US-NY-501,2026-08-09,0,0,0,0,New York NY
+598,Paraguay,US-NY-501,2026-08-16,0,0,0,0,New York NY
+599,Paraguay,US-NY-501,2026-08-23,0,0,0,0,New York NY
+600,Paraguay,US-PA-504,2026-05-17,0,0,0,0,Philidelphia PA
+601,Paraguay,US-PA-504,2026-05-24,0,0,0,0,Philidelphia PA
+602,Paraguay,US-PA-504,2026-05-31,0,0,0,0,Philidelphia PA
+603,Paraguay,US-PA-504,2026-06-07,0,0,0,0,Philidelphia PA
+604,Paraguay,US-PA-504,2026-06-14,0,0,164,58,Philidelphia PA
+605,Paraguay,US-PA-504,2026-06-21,0,0,68,5,Philidelphia PA
+606,Paraguay,US-PA-504,2026-06-28,0,0,48,4,Philidelphia PA
+607,Paraguay,US-PA-504,2026-07-05,0,0,279,35,Philidelphia PA
+608,Paraguay,US-PA-504,2026-07-12,0,0,13,0,Philidelphia PA
+609,Paraguay,US-PA-504,2026-07-19,0,0,0,0,Philidelphia PA
+610,Paraguay,US-PA-504,2026-07-26,0,0,3,0,Philidelphia PA
+611,Paraguay,US-PA-504,2026-08-02,0,0,0,0,Philidelphia PA
+612,Paraguay,US-PA-504,2026-08-09,0,0,0,0,Philidelphia PA
+613,Paraguay,US-PA-504,2026-08-16,0,0,0,0,Philidelphia PA
+614,Paraguay,US-PA-504,2026-08-23,0,0,0,0,Philidelphia PA
+615,Paraguay,US-TX-618,2026-05-17,0,0,0,0,Houston TX
+616,Paraguay,US-TX-618,2026-05-24,0,0,0,0,Houston TX
+617,Paraguay,US-TX-618,2026-05-31,0,0,0,0,Houston TX
+618,Paraguay,US-TX-618,2026-06-07,0,0,0,4,Houston TX
+619,Paraguay,US-TX-618,2026-06-14,7,0,162,56,Houston TX
+620,Paraguay,US-TX-618,2026-06-21,0,0,76,7,Houston TX
+621,Paraguay,US-TX-618,2026-06-28,0,0,44,0,Houston TX
+622,Paraguay,US-TX-618,2026-07-05,9,0,267,23,Houston TX
+623,Paraguay,US-TX-618,2026-07-12,0,0,18,0,Houston TX
+624,Paraguay,US-TX-618,2026-07-19,0,0,0,0,Houston TX
+625,Paraguay,US-TX-618,2026-07-26,0,0,0,0,Houston TX
+626,Paraguay,US-TX-618,2026-08-02,0,0,0,0,Houston TX
+627,Paraguay,US-TX-618,2026-08-09,0,0,0,0,Houston TX
+628,Paraguay,US-TX-618,2026-08-16,0,0,0,0,Houston TX
+629,Paraguay,US-TX-618,2026-08-23,0,0,0,0,Houston TX
+630,Paraguay,US-TX-623,2026-05-17,0,0,0,0,Dallas TX
+631,Paraguay,US-TX-623,2026-05-24,0,0,0,3,Dallas TX
+632,Paraguay,US-TX-623,2026-05-31,0,0,0,0,Dallas TX
+633,Paraguay,US-TX-623,2026-06-07,0,0,0,0,Dallas TX
+634,Paraguay,US-TX-623,2026-06-14,3,0,194,61,Dallas TX
+635,Paraguay,US-TX-623,2026-06-21,0,0,74,11,Dallas TX
+636,Paraguay,US-TX-623,2026-06-28,0,0,52,4,Dallas TX
+637,Paraguay,US-TX-623,2026-07-05,11,3,265,27,Dallas TX
+638,Paraguay,US-TX-623,2026-07-12,0,0,17,4,Dallas TX
+639,Paraguay,US-TX-623,2026-07-19,0,0,0,0,Dallas TX
+640,Paraguay,US-TX-623,2026-07-26,0,0,0,0,Dallas TX
+641,Paraguay,US-TX-623,2026-08-02,0,0,0,0,Dallas TX
+642,Paraguay,US-TX-623,2026-08-09,0,0,0,0,Dallas TX
+643,Paraguay,US-TX-623,2026-08-16,0,0,0,0,Dallas TX
+644,Paraguay,US-TX-623,2026-08-23,0,0,0,0,Dallas TX
+645,Paraguay,US-WA-819,2026-05-17,0,0,0,0,Seattle WA
+646,Paraguay,US-WA-819,2026-05-24,0,0,0,0,Seattle WA
+647,Paraguay,US-WA-819,2026-05-31,0,0,0,0,Seattle WA
+648,Paraguay,US-WA-819,2026-06-07,0,0,0,0,Seattle WA
+649,Paraguay,US-WA-819,2026-06-14,3,0,154,37,Seattle WA
+650,Paraguay,US-WA-819,2026-06-21,0,0,63,10,Seattle WA
+651,Paraguay,US-WA-819,2026-06-28,0,0,60,3,Seattle WA
+652,Paraguay,US-WA-819,2026-07-05,16,0,273,17,Seattle WA
+653,Paraguay,US-WA-819,2026-07-12,0,0,19,0,Seattle WA
+654,Paraguay,US-WA-819,2026-07-19,0,0,0,0,Seattle WA
+655,Paraguay,US-WA-819,2026-07-26,0,0,0,0,Seattle WA
+656,Paraguay,US-WA-819,2026-08-02,0,0,0,0,Seattle WA
+657,Paraguay,US-WA-819,2026-08-09,0,0,0,0,Seattle WA
+658,Paraguay,US-WA-819,2026-08-16,0,0,0,0,Seattle WA
+659,Paraguay,US-WA-819,2026-08-23,0,0,0,0,Seattle WA
+660,Turkey,US-CA-803,2026-05-17,0,0,0,0,Los Angeles CA
+661,Turkey,US-CA-803,2026-05-24,0,0,3,1,Los Angeles CA
+662,Turkey,US-CA-803,2026-05-31,1,0,3,0,Los Angeles CA
+663,Turkey,US-CA-803,2026-06-07,3,0,11,0,Los Angeles CA
+664,Turkey,US-CA-803,2026-06-14,5,0,83,12,Los Angeles CA
+665,Turkey,US-CA-803,2026-06-21,1,0,93,13,Los Angeles CA
+666,Turkey,US-CA-803,2026-06-28,5,0,157,29,Los Angeles CA
+667,Turkey,US-CA-803,2026-07-05,3,0,33,1,Los Angeles CA
+668,Turkey,US-CA-803,2026-07-12,2,0,17,0,Los Angeles CA
+669,Turkey,US-CA-803,2026-07-19,0,3,13,0,Los Angeles CA
+670,Turkey,US-CA-803,2026-07-26,0,0,0,0,Los Angeles CA
+671,Turkey,US-CA-803,2026-08-02,0,0,0,1,Los Angeles CA
+672,Turkey,US-CA-803,2026-08-09,0,0,0,0,Los Angeles CA
+673,Turkey,US-CA-803,2026-08-16,0,0,0,0,Los Angeles CA
+674,Turkey,US-CA-803,2026-08-23,0,0,0,0,Los Angeles CA
+675,Turkey,US-CA-807,2026-05-17,0,0,0,0,San Francisco CA
+676,Turkey,US-CA-807,2026-05-24,0,0,0,0,San Francisco CA
+677,Turkey,US-CA-807,2026-05-31,0,0,2,0,San Francisco CA
+678,Turkey,US-CA-807,2026-06-07,0,0,16,0,San Francisco CA
+679,Turkey,US-CA-807,2026-06-14,7,0,107,12,San Francisco CA
+680,Turkey,US-CA-807,2026-06-21,0,0,134,20,San Francisco CA
+681,Turkey,US-CA-807,2026-06-28,0,0,160,24,San Francisco CA
+682,Turkey,US-CA-807,2026-07-05,0,0,40,2,San Francisco CA
+683,Turkey,US-CA-807,2026-07-12,2,0,24,0,San Francisco CA
+684,Turkey,US-CA-807,2026-07-19,0,0,16,0,San Francisco CA
+685,Turkey,US-CA-807,2026-07-26,0,0,0,0,San Francisco CA
+686,Turkey,US-CA-807,2026-08-02,0,0,0,0,San Francisco CA
+687,Turkey,US-CA-807,2026-08-09,0,0,0,0,San Francisco CA
+688,Turkey,US-CA-807,2026-08-16,0,0,0,0,San Francisco CA
+689,Turkey,US-CA-807,2026-08-23,0,0,0,0,San Francisco CA
+690,Turkey,US-FL-528,2026-05-17,0,0,0,0,Miami FL
+691,Turkey,US-FL-528,2026-05-24,0,0,0,0,Miami FL
+692,Turkey,US-FL-528,2026-05-31,0,0,0,0,Miami FL
+693,Turkey,US-FL-528,2026-06-07,0,0,7,7,Miami FL
+694,Turkey,US-FL-528,2026-06-14,0,0,120,14,Miami FL
+695,Turkey,US-FL-528,2026-06-21,6,0,125,14,Miami FL
+696,Turkey,US-FL-528,2026-06-28,0,0,173,30,Miami FL
+697,Turkey,US-FL-528,2026-07-05,0,0,28,0,Miami FL
+698,Turkey,US-FL-528,2026-07-12,0,0,7,0,Miami FL
+699,Turkey,US-FL-528,2026-07-19,10,0,0,0,Miami FL
+700,Turkey,US-FL-528,2026-07-26,0,0,0,0,Miami FL
+701,Turkey,US-FL-528,2026-08-02,0,0,0,0,Miami FL
+702,Turkey,US-FL-528,2026-08-09,0,0,0,0,Miami FL
+703,Turkey,US-FL-528,2026-08-16,0,0,0,0,Miami FL
+704,Turkey,US-FL-528,2026-08-23,0,0,0,0,Miami FL
+705,Turkey,US-GA-524,2026-05-17,0,0,0,0,Atlanta GA
+706,Turkey,US-GA-524,2026-05-24,0,0,0,0,Atlanta GA
+707,Turkey,US-GA-524,2026-05-31,0,0,0,0,Atlanta GA
+708,Turkey,US-GA-524,2026-06-07,0,0,4,0,Atlanta GA
+709,Turkey,US-GA-524,2026-06-14,0,0,92,13,Atlanta GA
+710,Turkey,US-GA-524,2026-06-21,0,0,111,9,Atlanta GA
+711,Turkey,US-GA-524,2026-06-28,0,0,172,37,Atlanta GA
+712,Turkey,US-GA-524,2026-07-05,0,0,19,0,Atlanta GA
+713,Turkey,US-GA-524,2026-07-12,0,0,0,0,Atlanta GA
+714,Turkey,US-GA-524,2026-07-19,0,0,0,0,Atlanta GA
+715,Turkey,US-GA-524,2026-07-26,0,0,0,0,Atlanta GA
+716,Turkey,US-GA-524,2026-08-02,0,0,0,0,Atlanta GA
+717,Turkey,US-GA-524,2026-08-09,0,0,0,0,Atlanta GA
+718,Turkey,US-GA-524,2026-08-16,0,0,0,4,Atlanta GA
+719,Turkey,US-GA-524,2026-08-23,0,0,0,0,Atlanta GA
+720,Turkey,US-IL-602,2026-05-17,0,0,0,0,Chicago IL
+721,Turkey,US-IL-602,2026-05-24,0,0,0,0,Chicago IL
+722,Turkey,US-IL-602,2026-05-31,0,0,0,0,Chicago IL
+723,Turkey,US-IL-602,2026-06-07,0,0,4,0,Chicago IL
+724,Turkey,US-IL-602,2026-06-14,0,0,92,14,Chicago IL
+725,Turkey,US-IL-602,2026-06-21,0,0,110,12,Chicago IL
+726,Turkey,US-IL-602,2026-06-28,0,0,160,32,Chicago IL
+727,Turkey,US-IL-602,2026-07-05,0,0,28,5,Chicago IL
+728,Turkey,US-IL-602,2026-07-12,0,0,9,0,Chicago IL
+729,Turkey,US-IL-602,2026-07-19,0,0,0,0,Chicago IL
+730,Turkey,US-IL-602,2026-07-26,0,0,0,0,Chicago IL
+731,Turkey,US-IL-602,2026-08-02,0,0,0,0,Chicago IL
+732,Turkey,US-IL-602,2026-08-09,0,0,0,0,Chicago IL
+733,Turkey,US-IL-602,2026-08-16,0,0,0,0,Chicago IL
+734,Turkey,US-IL-602,2026-08-23,0,0,0,0,Chicago IL
+735,Turkey,US-MA-506,2026-05-17,0,0,0,0,Boston MA
+736,Turkey,US-MA-506,2026-05-24,0,0,0,0,Boston MA
+737,Turkey,US-MA-506,2026-05-31,0,0,0,0,Boston MA
+738,Turkey,US-MA-506,2026-06-07,0,0,5,0,Boston MA
+739,Turkey,US-MA-506,2026-06-14,0,0,97,9,Boston MA
+740,Turkey,US-MA-506,2026-06-21,0,0,115,11,Boston MA
+741,Turkey,US-MA-506,2026-06-28,0,0,162,27,Boston MA
+742,Turkey,US-MA-506,2026-07-05,0,0,30,0,Boston MA
+743,Turkey,US-MA-506,2026-07-12,0,0,0,0,Boston MA
+744,Turkey,US-MA-506,2026-07-19,0,0,0,0,Boston MA
+745,Turkey,US-MA-506,2026-07-26,0,0,0,0,Boston MA
+746,Turkey,US-MA-506,2026-08-02,0,0,0,0,Boston MA
+747,Turkey,US-MA-506,2026-08-09,0,0,0,0,Boston MA
+748,Turkey,US-MA-506,2026-08-16,0,0,1,0,Boston MA
+749,Turkey,US-MA-506,2026-08-23,0,0,3,0,Boston MA
+750,Turkey,US-MO-616,2026-05-17,0,0,0,0,Kansas City MO
+751,Turkey,US-MO-616,2026-05-24,0,0,0,0,Kansas City MO
+752,Turkey,US-MO-616,2026-05-31,0,0,0,0,Kansas City MO
+753,Turkey,US-MO-616,2026-06-07,0,0,0,0,Kansas City MO
+754,Turkey,US-MO-616,2026-06-14,0,0,63,0,Kansas City MO
+755,Turkey,US-MO-616,2026-06-21,0,0,69,15,Kansas City MO
+756,Turkey,US-MO-616,2026-06-28,0,0,127,33,Kansas City MO
+757,Turkey,US-MO-616,2026-07-05,0,0,0,0,Kansas City MO
+758,Turkey,US-MO-616,2026-07-12,0,0,0,0,Kansas City MO
+759,Turkey,US-MO-616,2026-07-19,0,0,0,0,Kansas City MO
+760,Turkey,US-MO-616,2026-07-26,0,0,0,0,Kansas City MO
+761,Turkey,US-MO-616,2026-08-02,0,0,0,0,Kansas City MO
+762,Turkey,US-MO-616,2026-08-09,0,0,0,0,Kansas City MO
+763,Turkey,US-MO-616,2026-08-16,0,0,0,0,Kansas City MO
+764,Turkey,US-MO-616,2026-08-23,0,0,0,0,Kansas City MO
+765,Turkey,US-NY-501,2026-05-17,0,0,0,0,New York NY
+766,Turkey,US-NY-501,2026-05-24,0,0,4,0,New York NY
+767,Turkey,US-NY-501,2026-05-31,6,0,3,0,New York NY
+768,Turkey,US-NY-501,2026-06-07,4,0,20,0,New York NY
+769,Turkey,US-NY-501,2026-06-14,10,0,109,15,New York NY
+770,Turkey,US-NY-501,2026-06-21,5,0,135,21,New York NY
+771,Turkey,US-NY-501,2026-06-28,8,0,175,37,New York NY
+772,Turkey,US-NY-501,2026-07-05,1,0,35,0,New York NY
+773,Turkey,US-NY-501,2026-07-12,1,0,21,0,New York NY
+774,Turkey,US-NY-501,2026-07-19,0,0,14,0,New York NY
+775,Turkey,US-NY-501,2026-07-26,0,0,0,0,New York NY
+776,Turkey,US-NY-501,2026-08-02,0,0,0,0,New York NY
+777,Turkey,US-NY-501,2026-08-09,0,0,0,0,New York NY
+778,Turkey,US-NY-501,2026-08-16,0,0,0,0,New York NY
+779,Turkey,US-NY-501,2026-08-23,0,0,0,0,New York NY
+780,Turkey,US-PA-504,2026-05-17,0,0,0,0,Philidelphia PA
+781,Turkey,US-PA-504,2026-05-24,0,0,0,0,Philidelphia PA
+782,Turkey,US-PA-504,2026-05-31,0,0,0,0,Philidelphia PA
+783,Turkey,US-PA-504,2026-06-07,5,0,5,0,Philidelphia PA
+784,Turkey,US-PA-504,2026-06-14,0,0,98,0,Philidelphia PA
+785,Turkey,US-PA-504,2026-06-21,0,0,137,16,Philidelphia PA
+786,Turkey,US-PA-504,2026-06-28,0,0,170,37,Philidelphia PA
+787,Turkey,US-PA-504,2026-07-05,0,0,20,0,Philidelphia PA
+788,Turkey,US-PA-504,2026-07-12,0,0,0,0,Philidelphia PA
+789,Turkey,US-PA-504,2026-07-19,0,0,0,0,Philidelphia PA
+790,Turkey,US-PA-504,2026-07-26,0,0,0,0,Philidelphia PA
+791,Turkey,US-PA-504,2026-08-02,0,0,0,0,Philidelphia PA
+792,Turkey,US-PA-504,2026-08-09,0,0,0,0,Philidelphia PA
+793,Turkey,US-PA-504,2026-08-16,0,0,2,0,Philidelphia PA
+794,Turkey,US-PA-504,2026-08-23,0,0,1,0,Philidelphia PA
+795,Turkey,US-TX-618,2026-05-17,0,0,0,0,Houston TX
+796,Turkey,US-TX-618,2026-05-24,0,0,0,0,Houston TX
+797,Turkey,US-TX-618,2026-05-31,0,0,0,0,Houston TX
+798,Turkey,US-TX-618,2026-06-07,0,0,4,0,Houston TX
+799,Turkey,US-TX-618,2026-06-14,0,4,91,17,Houston TX
+800,Turkey,US-TX-618,2026-06-21,4,0,101,13,Houston TX
+801,Turkey,US-TX-618,2026-06-28,5,0,154,30,Houston TX
+802,Turkey,US-TX-618,2026-07-05,0,0,37,5,Houston TX
+803,Turkey,US-TX-618,2026-07-12,0,0,10,0,Houston TX
+804,Turkey,US-TX-618,2026-07-19,0,0,0,0,Houston TX
+805,Turkey,US-TX-618,2026-07-26,0,0,0,0,Houston TX
+806,Turkey,US-TX-618,2026-08-02,0,0,0,0,Houston TX
+807,Turkey,US-TX-618,2026-08-09,0,0,0,0,Houston TX
+808,Turkey,US-TX-618,2026-08-16,0,0,0,0,Houston TX
+809,Turkey,US-TX-618,2026-08-23,0,0,0,0,Houston TX
+810,Turkey,US-TX-623,2026-05-17,0,0,0,0,Dallas TX
+811,Turkey,US-TX-623,2026-05-24,0,0,0,0,Dallas TX
+812,Turkey,US-TX-623,2026-05-31,0,0,0,0,Dallas TX
+813,Turkey,US-TX-623,2026-06-07,0,0,3,0,Dallas TX
+814,Turkey,US-TX-623,2026-06-14,0,0,89,10,Dallas TX
+815,Turkey,US-TX-623,2026-06-21,0,0,106,11,Dallas TX
+816,Turkey,US-TX-623,2026-06-28,3,0,157,31,Dallas TX
+817,Turkey,US-TX-623,2026-07-05,0,0,37,0,Dallas TX
+818,Turkey,US-TX-623,2026-07-12,0,4,16,0,Dallas TX
+819,Turkey,US-TX-623,2026-07-19,0,0,21,0,Dallas TX
+820,Turkey,US-TX-623,2026-07-26,0,0,0,0,Dallas TX
+821,Turkey,US-TX-623,2026-08-02,0,0,0,0,Dallas TX
+822,Turkey,US-TX-623,2026-08-09,0,0,0,0,Dallas TX
+823,Turkey,US-TX-623,2026-08-16,0,0,0,0,Dallas TX
+824,Turkey,US-TX-623,2026-08-23,0,0,0,0,Dallas TX
+825,Turkey,US-WA-819,2026-05-17,0,0,0,0,Seattle WA
+826,Turkey,US-WA-819,2026-05-24,0,0,0,0,Seattle WA
+827,Turkey,US-WA-819,2026-05-31,0,0,0,0,Seattle WA
+828,Turkey,US-WA-819,2026-06-07,0,0,4,0,Seattle WA
+829,Turkey,US-WA-819,2026-06-14,0,0,86,6,Seattle WA
+830,Turkey,US-WA-819,2026-06-21,0,0,98,11,Seattle WA
+831,Turkey,US-WA-819,2026-06-28,0,0,160,27,Seattle WA
+832,Turkey,US-WA-819,2026-07-05,0,0,35,0,Seattle WA
+833,Turkey,US-WA-819,2026-07-12,0,0,9,0,Seattle WA
+834,Turkey,US-WA-819,2026-07-19,0,0,16,0,Seattle WA
+835,Turkey,US-WA-819,2026-07-26,0,0,0,0,Seattle WA
+836,Turkey,US-WA-819,2026-08-02,0,0,0,0,Seattle WA
+837,Turkey,US-WA-819,2026-08-09,0,0,0,0,Seattle WA
+838,Turkey,US-WA-819,2026-08-16,0,0,0,0,Seattle WA
+839,Turkey,US-WA-819,2026-08-23,0,0,0,0,Seattle WA
